@@ -1,0 +1,240 @@
+html,
+body {
+	height: 100%;
+	min-height: 100%;
+	background-color: rgba(33,33,33,1.0);
+}
+
+main {
+	transition: 0.5s all;
+	
+	&.active {
+		transform: translateX(-400px);
+		opacity: 0.5;
+		
+		@include screen-xs {
+			transform: translateX(-300px);
+		}
+	}
+	&.page-home {
+		background-image: url("../assets/homepage-desktop.jpg");
+		background-size: cover;
+		height: 100vh;
+		
+		@include screen-xs {
+			@media (orientation: landscape) {
+				background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.25) 20%,rgba(0,0,0,0.5) 100%), url("../assets/homepage-landscape.jpg");
+			}
+		}
+		@include screen-xs {
+			@media (orientation: portrait) {
+				background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.25) 20%,rgba(0,0,0,0.5) 100%), url("../assets/homepage-portrait.jpg");
+			}
+		}
+		
+		.page-content {
+			text-align: right;
+			padding: 150px 15px 0 0;
+			
+			h1 { 
+				color: white;
+				margin-bottom: 20px;
+				background: none;
+				padding: 0;
+				margin-left: 0;
+				text-shadow: 0 0 20px rgba(0,0,0,0.35);
+				
+				@include screen-xs {
+					text-shadow: 0 0 20px rgba(0,0,0,0.75);
+				}
+			}
+			h2 { 
+				color: rgba(255, 235, 59, 1);
+			}
+			figcaption {
+				display: block;
+			    position: fixed;
+			    bottom: 0;
+			    right: 0;
+			    background: rgba(0,0,0,0.85);
+			    color: white;
+			    opacity: 0.5;
+			    transition: 0.5s all;
+			    padding: 8px 10px;
+			    font-size: 0.8rem;
+			    
+			    &:hover, &:active, &:focus {
+				    opacity: 1;
+			    }
+			}
+		}
+	}
+	&.page-interior {
+		.page-content {
+			text-align: left;
+			padding: 120px 0 80px 0;
+			
+			@include screen-xs {
+				padding: 120px 5px 40px;
+			}
+		}
+		
+		h1, h2, h3, h4, h5, h6 {
+			color: white;
+			margin-bottom: 20px;
+		}
+		h3 {
+			margin-bottom: 10px;
+		}
+		h5 {
+			color: rgba(255, 235, 59, 1);
+			margin-bottom: 10px;
+		}
+		p, li {
+			color: white;
+		}
+		a {
+			&.return-to {
+				color: #AAA;
+				display: block;
+				margin-bottom: 20px;
+				transition: 0.5s all;
+				
+				&:hover, &:focus, &:active {
+					color: white;
+					text-decoration: none;
+				}
+			}
+		}
+		
+		
+		img {
+			max-width: 100%;
+			
+			&.float-left {
+				max-width: 75px;
+				float: left;
+				margin-right: 20px;
+				
+				&.max-150 {
+					max-width: 150px;
+					
+					@include screen-xxs {
+						max-width: 100%;
+						margin-bottom: 10px;
+					}
+				}
+				&.max-200 {
+					max-width: 200px;
+					
+					@include screen-xxs {
+						max-width: 100%;
+						margin-bottom: 10px;
+					}
+				}
+			}
+		}
+		iframe {
+			width: 100%;
+			height: 460px;
+			
+			@include screen-xs {
+				height: 250px;
+			}
+		}
+	}
+}
+
+nav {
+	position: fixed;
+    top: 0;
+    right: 0;
+    width: 400px;
+    height: 100vh;
+    transition: 0.5s all;
+    background: rgba(#ff5252, 1) !important;
+    z-index: 99;
+    transform: translateX(400px);
+    padding: 30px 0;
+    
+    @include screen-xs {
+	    width: 300px;
+	    transform: translateX(300px);
+	}
+    
+    &.active {
+		transform: translateX(0);
+    }
+    
+    .credit {
+	    font-size: 1rem;
+	    position: absolute;
+	    bottom: 30px;
+	    font-style: italic;
+	    color: white;
+	    padding: 0 40px;
+	    opacity: 0.8;
+	    
+	    @include screen-xs {
+		    padding: 0 25px;
+		}
+    }
+    ul {
+	    margin: 0;
+		padding: 0;
+	    
+	    li {
+		    display: block;
+		    
+		    a {
+			    color: white;
+			    font-size: 1.6rem;
+			    line-height: 2.1;
+			    display: block;
+			    padding: 0 40px;
+			    text-indent: 0;
+			    transition: 0.5s all;
+			    text-align: left;
+			    
+			    @include screen-xs {
+				    font-size: 1.3rem;
+				    padding: 0 25px;
+				}
+			    
+			    &:hover, &:active, &:focus {
+				    color: white;
+				    text-decoration: none;
+				    margin-left: 25px;
+				    
+				    @include screen-xs {
+					    margin-left: 20px;
+					}
+			    }
+			    
+			    &[target="_blank"]{
+				    line-height: 1.2;
+				    margin-top: 10px;
+				    display: block;
+			    }
+		    }
+		    
+		    &.active {			    
+			    a {
+				    opacity: 0.65;
+					font-style: italic;
+					
+					&:hover, &:active, &:focus {
+					    margin-left: 0;
+					    cursor: default;
+				    }
+			    }
+		    }
+	    }
+	}
+}
+
+.clearfix::after {
+  	content: "";
+  	clear: both;
+  	display: table;
+}
