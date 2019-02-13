@@ -14,7 +14,7 @@
 				<h1><?php echo $page_title; ?></h1>	
 							
 				<br />
-				<h2>Project Team</h2>
+				<h2>The Filmmakers</h2>
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-pennsylvania-state-correctional.jpg" alt="Pennsylvania State Correctional Institution at Chester" class="float-left max-200" />
 				<h3>Filmmakers from the Pennsylvania State Correctional Institution at Chester</h3>
 				<div class="clearfix"></div><br/>
@@ -25,6 +25,17 @@
 				<div class="clearfix"></div><br/>
 				
 				<br />
+				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-erika-tsuchiya-bergere.jpg" alt="Erika Tsuchiya-Bergere" class="float-left" />
+				<h3>Erika Tsuchiya-Bergere <small>Lead Filmmaking Instructor</small></h3>
+				<div class="clearfix"></div><br/>
+				
+				<br />
+				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-william-wallace.jpg" alt="William Wallace III" class="float-left" />
+				<h3>William Wallace III <small>Co-Filmmaking Instructor</small></h3>
+				<div class="clearfix"></div><br/>
+				
+				<br />
+				<h2>Project Team</h2>
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-annie-anderson.jpg" alt="Annie Anderson" class="float-left" />
 				<h3>Annie Anderson <small>Project Support</small></h3>
 				<div class="clearfix"></div><br/>
@@ -61,16 +72,6 @@
 				<div class="clearfix"></div><br/>
 				
 				<br />
-				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-erika-tsuchiya-bergere.jpg" alt="Erika Tsuchiya-Bergere" class="float-left" />
-				<h3>Erika Tsuchiya-Bergere <small>Lead Teaching Artist</small></h3>
-				<div class="clearfix"></div><br/>
-				
-				<br />
-				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-william-wallace.jpg" alt="William Wallace III" class="float-left" />
-				<h3>William Wallace III <small>Co-Teaching Artist</small></h3>
-				<div class="clearfix"></div><br/>
-				
-				<br />
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-lauren-zalut.jpg" alt="Lauren Zalut" class="float-left" />
 				<h3>Lauren Zalut <small>Community Engagement</small></h3>
 				<div class="clearfix"></div><br/>
@@ -78,7 +79,7 @@
 				<br />
 				<h2>Core Advisors</h2>
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-louis-massiah.jpg" alt="Louis Massiah" class="float-left" />
-				<h3>Louis Massiah <small>Scribe Video Center</small></h3>
+				<h3>Louis Massiah <small>Senior Project Advisor, Scribe Video Center</small></h3>
 				<div class="clearfix"></div><br/>
 				
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-janet-kelley.jpg" alt="Janet Kelley" class="float-left" />

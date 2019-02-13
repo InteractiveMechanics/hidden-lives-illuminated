@@ -29,58 +29,61 @@
 					<figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed leo augue.</figcaption>
 				</figure>
 				
-				<h4>The Films</h4>
+				<h4 data-toggle="collapse" data-target="#Week1Films">The Films +</h4>
+				<div class="collapse" id="Week1Films">
+					<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
 					
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
+					<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
+					
+					<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
+					
+					<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
+					
+					<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
+					
+					<h5>Guest Film</h5>
+					<h3><a href="<?php echo $base_path; ?>films/film-title" target="_blank">Film Title</a> <small>Film Maker Name</small></h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
+				</div>
 				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
+				<div class="clearfix"></div>
 				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
+				<h4 data-toggle="collapse" data-target="#Week1Speakers">Speakers & Activities +</h4>
+				<div class="collapse" id="Week1Speakers">
 				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h5>Guest Film</h5>
-				<h3><a href="<?php echo $base_path; ?>films/film-title" target="_blank">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-
-				
-				<h4>Speakers & Activities</h4>
-				<h5>Thursday, August 15</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Friday, August 16</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Saturday, August 17</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Sunday, August 18</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Monday, August 19</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Tuesday, August 20</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Wednesday, August 21</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				
+					<h5>Thursday, August 15</h5>
+					<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
+					<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
+					
+					<h5>Friday, August 16</h5>
+					<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
+					<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
+					
+					<h5>Saturday, August 17</h5>
+					<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
+					<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
+					
+					<h5>Sunday, August 18</h5>
+					<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
+					<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
+					
+					<h5>Monday, August 19</h5>
+					<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
+					<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
+					
+					<h5>Tuesday, August 20</h5>
+					<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
+					<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
+					
+					<h5>Wednesday, August 21</h5>
+					<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
+					<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
+				</div>
 				<hr />
 				
 				
