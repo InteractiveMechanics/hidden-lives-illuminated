@@ -89,6 +89,8 @@ main {
     margin-bottom: 20px; }
   main.page-interior h3 {
     margin-bottom: 10px; }
+    main.page-interior h3 p {
+      margin-bottom: 0; }
   main.page-interior h5 {
     color: #ffeb3b;
     margin-bottom: 10px; }

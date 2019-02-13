@@ -79,7 +79,9 @@
 				<br />
 				<h2>Core Advisors</h2>
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-louis-massiah.jpg" alt="Louis Massiah" class="float-left" />
-				<h3>Louis Massiah <small>Senior Project Advisor, Scribe Video Center</small></h3>
+				<h3>Louis Massiah
+				<p>Senior Project Advisor</p>
+				<small>Scribe Video Center</small></h3>
 				<div class="clearfix"></div><br/>
 				
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-janet-kelley.jpg" alt="Janet Kelley" class="float-left" />
