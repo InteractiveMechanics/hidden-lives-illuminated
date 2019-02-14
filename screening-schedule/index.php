@@ -13,7 +13,14 @@
 			<div class="page-content clearfix">
 				<h1><?php echo $page_title; ?></h1>
 				
+				<br/><br/>
+				<h2 name="Week1">Week 1 <small>August 15 to August 21</small></h2>
+				<h2 name="Week2">Week 2 <small>August 22 to August 28</small></h2>
+				<h2 name="Week3">Week 3 <small>August 29 to September 4</small></h2>
+				<h2 name="Week4">Week 4 <small>September 5 to September 11</small></h2>
+				<h2 name="Week5">Week 5 <small>September 12 to September 17</small></h2>
 				
+				<!--
 				<ul class="nav">
 					<li class="nav-item"><a class="nav-link" href="#Week1">Week 1 (8/15-8/21)</a></li>
 					<li class="nav-item"><a class="nav-link" href="#Week2">Week 2 (8/22-8/28)</a></li>
@@ -23,7 +30,7 @@
 				</ul>
 				<hr />
 				
-				<h2 name="Week1">Week 1: Theme TBD <small>August 15 to August 21</small></h3>
+				<h2 name="Week1">Week 1: Theme TBD <small>August 15 to August 21</small></h2>
 				<figure>
 					<img src="https://via.placeholder.com/1200x600" alt="" />
 					<figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed leo augue.</figcaption>
@@ -87,7 +94,7 @@
 				<hr />
 				
 				
-				<h2 name="Week2">Week 2: Theme TBD <small>August 22 to August 28</small></h3>
+				<h2 name="Week2">Week 2: Theme TBD <small>August 22 to August 28</small></h2>
 				<figure>
 					<img src="https://via.placeholder.com/1200x600" alt="" />
 					<figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed leo augue.</figcaption>
@@ -148,7 +155,7 @@
 				<hr />
 				
 				
-				<h2 name="Week3">Week 3: Theme TBD <small>August 29 to September 4</small></h3>
+				<h2 name="Week3">Week 3: Theme TBD <small>August 29 to September 4</small></h2>
 				<figure>
 					<img src="https://via.placeholder.com/1200x600" alt="" />
 					<figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed leo augue.</figcaption>
@@ -209,7 +216,7 @@
 				<hr />
 				
 				
-				<h2 name="Week4">Week 4: Theme TBD <small>September 5 to September 11</small></h3>
+				<h2 name="Week4">Week 4: Theme TBD <small>September 5 to September 11</small></h2>
 				<figure>
 					<img src="https://via.placeholder.com/1200x600" alt="" />
 					<figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed leo augue.</figcaption>
@@ -270,7 +277,7 @@
 				<hr />
 				
 				
-				<h2 name="Week5">Week 5: Theme TBD <small>September 12</small></h3>
+				<h2 name="Week5">Week 5: Theme TBD <small>September 12 to September 17</small></h2>
 				<figure>
 					<img src="https://via.placeholder.com/1200x600" alt="" />
 					<figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed leo augue.</figcaption>
@@ -302,6 +309,8 @@
 				<h5>Thursday, September 12</h5>
 				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
 				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
+				
+				-->
 			</div>
 		</div>
 	</div>
