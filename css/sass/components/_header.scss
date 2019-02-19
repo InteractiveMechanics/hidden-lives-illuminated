@@ -26,7 +26,7 @@ header {
     }
     
     @include screen-xs {
-		position: fixed;
+		// position: fixed;
 		
 		&.active {
 		    transform: translateX(-300px);
@@ -41,7 +41,7 @@ header {
     
 		color: white;
 		display: inline-block;
-		margin-right: 15px;
+		margin-right: 55px;
 		cursor: pointer;
 		
 		@include screen-xs {
@@ -54,6 +54,10 @@ header {
 			
 			@include screen-xs {
 				
+			}
+			@include screen-xl {
+				width: 300px;
+				height: 77px;
 			}
 		}
 		
@@ -116,53 +120,56 @@ header {
 			}
 		}
 	}
-	#menu-icon {
-		display: inline-block;
-		height: 36px;
-	    width: 40px;
-	    padding: 4px 6px;
-	    top: 0px;
-	    position: relative;
-	    cursor: pointer;
-	    
-	    @include screen-xs {
-		    height: 34px;
-		    width: 36px;
-		}
+}
+
+#menu-icon {
+	display: inline-block;
+	height: 36px;
+    width: 40px;
+    padding: 4px 6px;
+    top: 25px;
+    position: relative;
+    cursor: pointer;
+    position: fixed;
+    left: -60px;
+    
+    @include screen-xs {
+	    height: 34px;
+	    width: 36px;
+	}
+	
+	.menu-icon-bar {
+		width: 30px;
+		height: 3px;
+		background: white;
+		margin: 4px 0;
+		position: absolute;
+		transition: 0.5s all;
 		
+		&:nth-child(1){
+			top: 10px;
+		}
+		&:nth-child(2){
+			top: 18px;
+		}
+		&:nth-child(3){
+			top: 26px;
+		}
+	}
+	
+	&.active {
 		.menu-icon-bar {
-			width: 30px;
-			height: 3px;
-			background: white;
-			margin: 4px 0;
-			position: absolute;
-			transition: 0.5s all;
 			
 			&:nth-child(1){
-				top: 10px;
+				transform: rotate(-45deg);
+				top: 20px;
 			}
 			&:nth-child(2){
-				top: 18px;
+				opacity: 0;
 			}
 			&:nth-child(3){
-				top: 26px;
-			}
-		}
-		
-		&.active {
-			.menu-icon-bar {
-				
-				&:nth-child(1){
-					transform: rotate(-45deg);
-					top: 20px;
-				}
-				&:nth-child(2){
-					opacity: 0;
-				}
-				&:nth-child(3){
-					transform: rotate(45deg);
-					top: 20px;
-				}
+				transform: rotate(45deg);
+				top: 20px;
 			}
 		}
 	}

@@ -19,10 +19,7 @@
   100% {
     opacity: 1; } }
 .fade-in {
-  -webkit-animation: fadeIn 1s 1 forwards;
-  -moz-animation: fadeIn 1s 1 forwards;
-  -o-animation: fadeIn 1s 1 forwards;
-  animation: fadeIn 1s 1 forwards; }
+  animation: fadeIn 1s linear 1 forwards; }
 
 html,
 body {
@@ -32,6 +29,8 @@ body {
 
 main {
   transition: 0.5s all; }
+  body.inverse main {
+    background-color: #CCC; }
   main.active {
     transform: translateX(-400px);
     opacity: 0.5; }
@@ -41,6 +40,7 @@ main {
   main.page-home {
     background-image: url("../assets/homepage-desktop.jpg");
     background-size: cover;
+    background-position-y: bottom;
     height: 100vh; }
 @media (max-width: 767px) and (orientation: landscape) {
   main.page-home {
@@ -87,6 +87,8 @@ main {
   main.page-interior h1, main.page-interior h2, main.page-interior h3, main.page-interior h4, main.page-interior h5, main.page-interior h6 {
     color: white;
     margin-bottom: 20px; }
+  body.inverse main.page-interior h2, body.inverse main.page-interior h3, body.inverse main.page-interior h4, body.inverse main.page-interior h5, body.inverse main.page-interior h6 {
+    color: black; }
   main.page-interior h3 {
     margin-bottom: 10px; }
     main.page-interior h3 p {
@@ -96,6 +98,8 @@ main {
     margin-bottom: 10px; }
   main.page-interior p, main.page-interior li {
     color: white; }
+    body.inverse main.page-interior p, body.inverse main.page-interior li {
+      color: black; }
   main.page-interior a.return-to {
     color: #AAA;
     display: block;
@@ -179,6 +183,8 @@ nav {
         nav .credit a.icon svg {
           width: 24px;
           height: 24px; }
+          nav .credit a.icon svg path {
+            fill: white; }
   nav ul {
     margin: 0;
     padding: 0; }
@@ -238,10 +244,8 @@ header {
       header.active #brand span.brand-illuminated {
         color: white; } }
   @media (max-width: 767px) {
-    header {
-      position: fixed; }
-      header.active {
-        transform: translateX(-300px); } }
+    header.active {
+      transform: translateX(-300px); } }
   header #brand {
     font-weight: 700;
     font-size: 2.1rem;
@@ -249,7 +253,7 @@ header {
     letter-spacing: 1px;
     color: white;
     display: inline-block;
-    margin-right: 15px;
+    margin-right: 55px;
     cursor: pointer; }
     @media (max-width: 767px) {
       header #brand {
@@ -257,6 +261,10 @@ header {
     header #brand svg {
       width: 275px;
       height: 70px; }
+      @media (min-width: 1440px) {
+        header #brand svg {
+          width: 300px;
+          height: 77px; } }
     header #brand span {
       transition: 0.5s all;
       font-family: 'Roboto Condensed', sans-serif;
@@ -301,39 +309,42 @@ header {
           color: #ffeb3b; }
         header #brand:hover span.brand-illuminated, header #brand:focus span.brand-illuminated, header #brand:active span.brand-illuminated {
           color: white; } }
-  header #menu-icon {
-    display: inline-block;
-    height: 36px;
-    width: 40px;
-    padding: 4px 6px;
-    top: 0px;
-    position: relative;
-    cursor: pointer; }
-    @media (max-width: 767px) {
-      header #menu-icon {
-        height: 34px;
-        width: 36px; } }
-    header #menu-icon .menu-icon-bar {
-      width: 30px;
-      height: 3px;
-      background: white;
-      margin: 4px 0;
-      position: absolute;
-      transition: 0.5s all; }
-      header #menu-icon .menu-icon-bar:nth-child(1) {
-        top: 10px; }
-      header #menu-icon .menu-icon-bar:nth-child(2) {
-        top: 18px; }
-      header #menu-icon .menu-icon-bar:nth-child(3) {
-        top: 26px; }
-    header #menu-icon.active .menu-icon-bar:nth-child(1) {
-      transform: rotate(-45deg);
-      top: 20px; }
-    header #menu-icon.active .menu-icon-bar:nth-child(2) {
-      opacity: 0; }
-    header #menu-icon.active .menu-icon-bar:nth-child(3) {
-      transform: rotate(45deg);
-      top: 20px; }
+
+#menu-icon {
+  display: inline-block;
+  height: 36px;
+  width: 40px;
+  padding: 4px 6px;
+  top: 25px;
+  position: relative;
+  cursor: pointer;
+  position: fixed;
+  left: -60px; }
+  @media (max-width: 767px) {
+    #menu-icon {
+      height: 34px;
+      width: 36px; } }
+  #menu-icon .menu-icon-bar {
+    width: 30px;
+    height: 3px;
+    background: white;
+    margin: 4px 0;
+    position: absolute;
+    transition: 0.5s all; }
+    #menu-icon .menu-icon-bar:nth-child(1) {
+      top: 10px; }
+    #menu-icon .menu-icon-bar:nth-child(2) {
+      top: 18px; }
+    #menu-icon .menu-icon-bar:nth-child(3) {
+      top: 26px; }
+  #menu-icon.active .menu-icon-bar:nth-child(1) {
+    transform: rotate(-45deg);
+    top: 20px; }
+  #menu-icon.active .menu-icon-bar:nth-child(2) {
+    opacity: 0; }
+  #menu-icon.active .menu-icon-bar:nth-child(3) {
+    transform: rotate(45deg);
+    top: 20px; }
 
 * {
   font-family: 'Roboto', sans-serif; }
@@ -346,12 +357,14 @@ h1 {
   padding: 5px 14px; }
   @media (max-width: 767px) {
     h1 {
-      font-size: 2rem; } }
+      font-size: 1.8rem; } }
 
 h2 {
   font-weight: 300;
-  font-size: 1.8rem;
   font-family: 'Roboto Condensed', sans-serif; }
+  @media (max-width: 767px) {
+    h2 {
+      font-size: 1.5rem; } }
   h2 small {
     font-size: 75%;
     font-style: italic;
@@ -366,6 +379,9 @@ h3 {
   font-weight: 300;
   font-size: 1.6rem;
   font-family: 'Roboto Condensed', sans-serif; }
+  @media (max-width: 767px) {
+    h3 {
+      font-size: 1.3rem; } }
   h3 a {
     color: white;
     text-decoration: underline;
@@ -407,8 +423,15 @@ h5 {
 p, li {
   font-size: 1.2rem;
   line-height: 1.8;
-  font-weight: 300;
+  font-weight: 400;
   font-family: 'Roboto', sans-serif; }
+  @media (max-width: 767px) {
+    p, li {
+      font-size: 1rem; } }
+
+.text-underline {
+  border-bottom: 2px solid white;
+  display: inline-block; }
 
 .nav-link {
   color: white;

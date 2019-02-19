@@ -11,14 +11,17 @@ h1 {
     padding: 5px 14px;
     
     @include screen-xs {
-	    font-size: 2rem;
+	    font-size: 1.8rem;
     }
 }
 
 h2 { 
 	font-weight: 300;
-	font-size: 1.8rem;
 	font-family: 'Roboto Condensed', sans-serif;
+	
+	@include screen-xs {
+		font-size: 1.5rem;	
+	}
 	
 	small {
 		font-size: 75%;
@@ -37,6 +40,10 @@ h3 {
 	font-weight: 300;
 	font-size: 1.6rem;
 	font-family: 'Roboto Condensed', sans-serif;
+	
+	@include screen-xs {
+		font-size: 1.3rem;	
+	}
 	
 	a {
 		color: white;
@@ -90,11 +97,19 @@ h5 {
 p, li {
 	font-size: 1.2rem;
 	line-height: 1.8;
-	font-weight: 300;
+	font-weight: 400;
 	// text-align: justify;
 	
 	font-family: 'Roboto', sans-serif;
 
+	@include screen-xs {
+		font-size: 1rem;
+	}
+}
+
+.text-underline {
+	border-bottom: 2px solid white;
+    display: inline-block;
 }
 
 .nav-link {

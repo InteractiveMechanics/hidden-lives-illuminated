@@ -3,6 +3,7 @@
 	$page_class 	= "page-interior";
 	$page_title		= "About the Project";
 	$page_id		= 2;
+	$inverse		= true;
 	
 	require('../inc/header.php');
 ?>

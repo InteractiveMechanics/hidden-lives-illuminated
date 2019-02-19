@@ -17,8 +17,13 @@
 
     <title><?php if ($page_title){ echo $page_title . ' | ' . $site_title; } else { echo $site_title . ' | ' . $site_desc; } ?></title>
 </head>
-<body>
+<body class="fade-in <?php if ($inverse): ?>inverse<?php endif; ?>">
 	<nav>
+		<div id="menu-icon">
+			<div class="menu-icon-bar"></div>
+			<div class="menu-icon-bar"></div>
+			<div class="menu-icon-bar"></div>
+		</div>
 	    <ul>
 			<li <?php if ($page_id == 0){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>">Home</a></li>
 			<li <?php if ($page_id == 1){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>screening-schedule">Screening Schedule</a></li>
@@ -50,7 +55,6 @@
 				<path class="st0" d="M50,15.65H35.72c-1.69,0-3.57,2.22-3.57,5.19v10.31H50v14.7H32.14V90H15.29V45.85H0v-14.7h15.29V22.5
 					C15.29,10.09,23.9,0,35.72,0H50V15.65z"/>
 				</svg>
-
 			</a>
 			<a href="https://www.twitter.com/easternstate" class="icon" target="_blank">
 				<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In  -->
@@ -67,7 +71,7 @@
 					c0,9.15,6.51,16.77,15.14,18.51c-1.58,0.43-3.25,0.66-4.97,0.66c-1.21,0-2.4-0.12-3.55-0.34c2.4,7.5,9.37,12.96,17.63,13.11
 					c-6.46,5.06-14.6,8.08-23.44,8.08c-1.52,0-3.03-0.09-4.5-0.27c8.35,5.36,18.27,8.48,28.93,8.48c34.72,0,53.7-28.76,53.7-53.71
 					c0-0.82-0.02-1.63-0.05-2.44C86.27,15.96,89.47,12.64,92,8.85z"/>
-				</svg>				
+				</svg>	
 			</a>
 			<a href="https://www.instagram.com/easternstate" class="icon" target="_blank">
 				<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In  -->
@@ -84,7 +88,6 @@
 					 M79.13,16.6c0,1.32-1.08,2.4-2.4,2.4h-7.2c-1.32,0-2.4-1.08-2.4-2.4V9.4c0-1.32,1.08-2.4,2.4-2.4h7.2c1.32,0,2.4,1.08,2.4,2.4V16.6
 					z M59,43c0-8.84-7.16-16-16-16c-8.84,0-16,7.16-16,16s7.16,16,16,16C51.84,59,59,51.84,59,43z"/>
 				</svg>
-
 			</a>
 	    </div>
     </nav>
@@ -873,11 +876,6 @@
 			</svg>
 
 		</a>
-		<div id="menu-icon">
-			<div class="menu-icon-bar"></div>
-			<div class="menu-icon-bar"></div>
-			<div class="menu-icon-bar"></div>
-		</div>
 	</header>
 	
 	<main class="<?php echo $page_class; ?>">

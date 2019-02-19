@@ -3,6 +3,7 @@
 	$page_class 	= "page-interior";
 	$page_title		= "Screening Schedule";
 	$page_id		= 1;
+	$inverse		= false;
 	
 	require('../inc/header.php');
 ?>
@@ -13,12 +14,18 @@
 			<div class="page-content clearfix">
 				<h1><?php echo $page_title; ?></h1>
 				
-				<br/><br/>
-				<h2 name="Week1">Week 1 <small>August 15 to August 21</small></h2>
-				<h2 name="Week2">Week 2 <small>August 22 to August 28</small></h2>
-				<h2 name="Week3">Week 3 <small>August 29 to September 4</small></h2>
-				<h2 name="Week4">Week 4 <small>September 5 to September 11</small></h2>
-				<h2 name="Week5">Week 5 <small>September 12 to September 17</small></h2>
+				<ul>
+					<li>7PM to 10PM nightly, rain or shine</li>
+					<li>Free and open to the public</li>
+					<li>2100 Fairmount Avenue, Philadelphia PA 19130</li>
+				</ul>
+				
+				<br/>
+				<h3 name="Week1">Week 1 <small>August 15 to August 21, 2019</small></h3><br/>
+				<h3 name="Week2">Week 2 <small>August 22 to August 28, 2019</small></h3><br/>
+				<h3 name="Week3">Week 3 <small>August 29 to September 4, 2019</small></h3><br/>
+				<h3 name="Week4">Week 4 <small>September 5 to September 11, 2019</small></h3><br/>
+				<h3 name="Week5">Finale <small>September 12, 2019</small></h3>
 				
 				<!--
 				<ul class="nav">
