@@ -50,7 +50,7 @@
 				<h3>Robyn Buseman <small>Project Coordinator and Community Engagement</small></h3>
 				<div class="clearfix"></div><br/>
 				
-				<h3>Greenhouse Media <small>Animation Technical Support, Sceening Projection and Sound</small></h3>
+				<h3>Greenhouse Media <small>Animation Technical Support, Screening Projection and Sound</small></h3>
 				<p>Aaron Igler and Matt Suib</p>
 				<div class="clearfix"></div><br/>
 				
