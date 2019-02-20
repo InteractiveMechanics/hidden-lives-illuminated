@@ -24,7 +24,10 @@
 				<p><em>Hidden Lives Illuminated</em> has been in development for three years. Teaching artists employed by Eastern State Penitentiary have been leading classes in storytelling, screen writing, narration and animation inside Pennsylvania correctional institutions since the summer of 2018. The project was inspired by the work of artist Damon Locks, as presented as part of The 96 Acres Project in Chicago.</p>
 				
 				<br />
-				<h2>Funders</h2>
+				<div class="text-center">
+					<h2 class="text-underline">Funders</h2>
+				</div>
+				<div class="clearfix"></div>
 				<img src="<?php echo $base_path; ?>assets/pc_mag_cmyk.png" alt="The Pew Center for Arts & Heritage" class="float-left max-150" />
 				<p>Major support for <em>Hidden Lives Illuminated</em> has been provided by The Pew Center for Arts & Heritage, with additional support from OCF Realty Coffee House.</p>
 			</div>

@@ -110,6 +110,10 @@ p, li {
 .text-underline {
 	border-bottom: 2px solid white;
     display: inline-block;
+    
+    body.inverse & {
+	    border-bottom: 2px solid black;
+    }
 }
 
 .nav-link {

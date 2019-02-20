@@ -15,7 +15,9 @@
 				<h1><?php echo $page_title; ?></h1>	
 							
 				<br />
-				<h2 class="text-center text-underline">The Filmmakers</h2>
+				<div class="text-center">
+					<h2 class="text-underline">The Filmmakers</h2>
+				</div>
 				<div class="clearfix"></div>
 				
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-pennsylvania-state-correctional.jpg" alt="Pennsylvania State Correctional Institution" class="float-left max-200" />
@@ -35,7 +37,9 @@
 				
 				
 				<br /><br />
-				<h2 class="text-center text-underline">Project Team</h2>
+				<div class="text-center">
+					<h2 class="text-underline">Project Team</h2>
+				</div>
 				<div class="clearfix"></div>
 				
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-annie-anderson.jpg" alt="Annie Anderson" class="float-left" />
@@ -73,7 +77,9 @@
 				
 
 				<br /><br />
-				<h2 class="text-center text-underline">Core Advisors</h2>
+				<div class="text-center">
+					<h2 class="text-underline">Core Advisors</h2>
+				</div>
 				<div class="clearfix"></div>
 				
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-louis-massiah.jpg" alt="Louis Massiah" class="float-left" />
@@ -88,7 +94,9 @@
 
 
 				<br /><br />
-				<h2 class="text-center text-underline">Additional Project Advisors</h2>
+				<div class="text-center">
+					<h2 class="text-underline">Additional Project Advisors</h2>
+				</div>
 				<div class="clearfix"></div>
 				
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-penny-balkin-bach.jpg" alt="Penny Balkin Bach" class="float-left" />
