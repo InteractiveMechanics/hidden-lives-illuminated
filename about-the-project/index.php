@@ -29,7 +29,7 @@
 				</div>
 				<div class="clearfix"></div>
 				<img src="<?php echo $base_path; ?>assets/pc_mag_cmyk.png" alt="The Pew Center for Arts & Heritage" class="float-left max-150" />
-				<p>Major support for <em>Hidden Lives Illuminated</em> has been provided by The Pew Center for Arts & Heritage, with additional support from OCF Realty Coffee House.</p>
+				<p>Major support for <em>Hidden Lives Illuminated</em> has been provided by The Pew Center for Arts & Heritage, with additional support from OCF Coffee House.</p>
 			</div>
 		</div>
 	</div>
