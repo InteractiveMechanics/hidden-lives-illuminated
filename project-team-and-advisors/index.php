@@ -28,6 +28,7 @@
 				<h3>Filmmakers from Philadelphia’s Riverside Correctional Facility for Women</h3>
 				<div class="clearfix"></div><br/>
 				
+				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-erika-tsuchiya-bergere.jpg" alt="Erika Tsuchiya-Bergere" class="float-left" />
 				<h3>Erika Tsuchiya-Bergere <small>Lead Teaching Artist</small></h3>
 				<div class="clearfix"></div><br/>
 				
@@ -54,6 +55,7 @@
 				<h3>Robyn Buseman <small>Project Coordinator and Community Engagement</small></h3>
 				<div class="clearfix"></div><br/>
 				
+				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-greenhouse-media.jpg" alt="Greenhouse Media - Aaron Igler and Matt Suib" class="float-left" />
 				<h3>Greenhouse Media <small>Animation Technical Support, Screening Projection and Sound</small></h3>
 				<p>Aaron Igler and Matt Suib</p>
 				<div class="clearfix"></div><br/>
