@@ -113,6 +113,7 @@
 				<h3>John Pace <small>Inside-Out Prison Exchange Program</small></h3>
 				<div class="clearfix"></div><br/>
 				
+				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-patricia-way.jpg" alt="Patricia Way" class="float-left" />
 				<h3>Patricia Way <small>Inside-Out Prison Exchange Program</small></h3>
 			</div>
 		</div>
