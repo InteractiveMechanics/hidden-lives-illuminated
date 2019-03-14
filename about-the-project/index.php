@@ -15,7 +15,7 @@
 				<h1><?php echo $page_title; ?></h1>
 				
 				<br /><br />
-				<p class="text-center lead" style="font-size: 100%;">
+				<p class="text-center lead" style="font-size: 150%;">
 					"The walls don't just keep the prisoners in... They keep the public out."
 					<small class="text-muted d-block">&mdash;Common observation in prisons</small>
 				</p>
