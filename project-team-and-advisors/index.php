@@ -14,7 +14,7 @@
 			<div class="page-content clearfix">
 				<h1><?php echo $page_title; ?></h1>	
 							
-				<br />
+				<br /><br /><br />
 				<div class="text-center">
 					<h2 class="text-underline">The Filmmakers</h2>
 				</div>

@@ -12,6 +12,7 @@
 
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@1.6.12/dist/css/lightgallery.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700|Roboto:300,300i,400,400i,700,700i">
     <link rel="stylesheet" href="<?php echo $base_path; ?>css/main.css">
 
@@ -29,6 +30,7 @@
 			<li <?php if ($page_id == 1){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>screening-schedule">Screening Schedule</a></li>
 			<li <?php if ($page_id == 2){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>about-the-project">About the Project</a></li>
 			<li <?php if ($page_id == 3){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>project-team-and-advisors">Project Team & Advisors</a></li>
+			<li <?php if ($page_id == 4){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>documentary-preview">Documentary Preview</a></li>
 			<li><a href="https://www.easternstate.org/" target="_blank">Visit Eastern State Penitentiary Historic Site</a></li>
 	    </ul>
 	    <div class="credit">

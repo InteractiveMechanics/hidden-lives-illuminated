@@ -15,17 +15,21 @@
 				<h1><?php echo $page_title; ?></h1>
 				
 				<ul>
-					<li>7PM to 10PM nightly, rain or shine</li>
-					<li>Free and open to the public</li>
-					<li>2100 Fairmount Avenue, Philadelphia PA 19130</li>
+					<li>Screenings last about 40 minutes, and are looped three times nightly.</li>
+					<li>Start times are 7 pm, 8 pm, and 9 pm nightly						 </li>
+					<li>Recommended arrival time: 15 minutes before screening begins		 </li>
+					<li>Each week features different films, grouped by theme (see below)	 </li>
+					<li>Rain or shine														 </li>
+					<li>Free and open to the public											 </li>
+					<li>2100 Fairmount Avenue, Philadelphia PA 19130						 </li>
 				</ul>
 				
 				<br/>
-				<h3 name="Week1">Week 1 <small>August 15 to August 21, 2019</small></h3><br/>
-				<h3 name="Week2">Week 2 <small>August 22 to August 28, 2019</small></h3><br/>
-				<h3 name="Week3">Week 3 <small>August 29 to September 4, 2019</small></h3><br/>
-				<h3 name="Week4">Week 4 <small>September 5 to September 11, 2019</small></h3><br/>
-				<h3 name="Week5">Finale <small>September 12, 2019</small></h3>
+				<h3 name="Week1">Week 1: The View from Inside 			<small>August 15 to August 21, 2019</small></h3><br/>
+				<h3 name="Week2">Week 2: Criminal Justice Today 		<small>August 22 to August 28, 2019</small></h3><br/>
+				<h3 name="Week3">Week 3: Family and Community Impact 	<small>August 29 to September 4, 2019</small></h3><br/>
+				<h3 name="Week4">Week 4: Restorative Justice			<small>September 5 to September 11, 2019</small></h3><br/>
+				<h3 name="Week5">Finale 								<small>September 12, 2019</small></h3>
 				
 				<!--
 				<ul class="nav">
