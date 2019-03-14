@@ -14,10 +14,12 @@
 			<div class="page-content clearfix">
 				<h1><?php echo $page_title; ?></h1>
 				
-				<iframe src="https://www.youtube.com/embed/OsLahZeAkgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				
 				<p>Media in Neighborhood Group (MING) are currently producing a documentary film about <em>Hidden Lives Illuminated</em>. 
 					Find the completed documentary here in December, 2019.</p>
+					
+				<br />
+				<iframe src="https://player.vimeo.com/video/323788223" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				
 				
 				<br /><br />
 				<div class="text-center">

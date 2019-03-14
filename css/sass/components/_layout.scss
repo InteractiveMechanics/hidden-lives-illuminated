@@ -116,6 +116,13 @@ main {
 			}
 		}
 		a {
+			color: #ff5252;
+			text-decoration: underline;
+		
+			&:hover, &:focus, &:active {
+				color: darken(#ff5252, 10%);
+			}
+
 			&.return-to {
 				color: #AAA;
 				display: block;

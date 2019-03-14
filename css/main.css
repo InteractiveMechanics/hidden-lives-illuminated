@@ -100,14 +100,19 @@ main {
     color: white; }
     body.inverse main.page-interior p, body.inverse main.page-interior li {
       color: black; }
-  main.page-interior a.return-to {
-    color: #AAA;
-    display: block;
-    margin-bottom: 20px;
-    transition: 0.5s all; }
-    main.page-interior a.return-to:hover, main.page-interior a.return-to:focus, main.page-interior a.return-to:active {
-      color: white;
-      text-decoration: none; }
+  main.page-interior a {
+    color: #ff5252;
+    text-decoration: underline; }
+    main.page-interior a:hover, main.page-interior a:focus, main.page-interior a:active {
+      color: #ff1f1f; }
+    main.page-interior a.return-to {
+      color: #AAA;
+      display: block;
+      margin-bottom: 20px;
+      transition: 0.5s all; }
+      main.page-interior a.return-to:hover, main.page-interior a.return-to:focus, main.page-interior a.return-to:active {
+        color: white;
+        text-decoration: none; }
   main.page-interior img {
     max-width: 100%; }
     main.page-interior img.float-left {

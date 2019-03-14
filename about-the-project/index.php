@@ -35,7 +35,7 @@
 				</a>
 				<br /><br />
 				<p>
-					Hidden Lives Illuminated will bring the often invisible stories of people living in prisons to light against the backdrop of 
+					<em>Hidden Lives Illuminated</em> will bring the often invisible stories of people living in prisons to light against the backdrop of 
 					Eastern State Penitentiary's dramatic stone walls. The series will feature nightly screenings of newly-commissioned, animated short 
 					films created by currently-incarcerated artists living in Pennsylvania correctional institutions.
 				</p>
