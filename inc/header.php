@@ -25,73 +25,75 @@
 			<div class="menu-icon-bar"></div>
 			<div class="menu-icon-bar"></div>
 		</div>
-	    <ul>
-			<li <?php if ($page_id == 0){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>">Home</a></li>
-			<li <?php if ($page_id == 1){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>screening-schedule">Screening Schedule</a></li>
-			<li <?php if ($page_id == 2){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>about-the-project">About the Project</a></li>
-			<li <?php if ($page_id == 3){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>project-team-and-advisors">Project Team & Advisors</a></li>
-			<li <?php if ($page_id == 4){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>documentary-preview">Documentary Preview</a></li>
-			<li><a href="https://www.easternstate.org/" target="_blank">Visit Eastern State Penitentiary Historic Site</a></li>
-	    </ul>
-	    <div class="credit">
-		    <address>
-			    Eastern State Penitentiary<br/>
-			    2027 Fairmount Avenue<br/>
-				Philadelphia, PA 19130
-		    </address>
-			
-			<a href="mailto:info@easternstate.org">info@easternstate.org</a>
-			<a href="tel:215-236-3300">(215) 236-3300</a>
-			<br/>
-			
-			#HiddenLives <br/><br/>
-			<a href="https://www.facebook.com/Eastern-State-Penitentiary-125028907507788/" class="icon" target="_blank">
-				<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In  -->
-				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px"
-					 height="90px" viewBox="0 0 50 90" style="enable-background:new 0 0 50 90;" xml:space="preserve">
-				<style type="text/css">
-					.st0{fill:#FFFFFF;}
-				</style>
-				<defs>
-				</defs>
-				<path class="st0" d="M50,15.65H35.72c-1.69,0-3.57,2.22-3.57,5.19v10.31H50v14.7H32.14V90H15.29V45.85H0v-14.7h15.29V22.5
-					C15.29,10.09,23.9,0,35.72,0H50V15.65z"/>
-				</svg>
-			</a>
-			<a href="https://www.twitter.com/easternstate" class="icon" target="_blank">
-				<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In  -->
-				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="92px"
-					 height="74.77px" viewBox="0 0 92 74.77" style="enable-background:new 0 0 92 74.77;" xml:space="preserve">
-				<style type="text/css">
-					.st0{fill:#FFFFFF;}
-				</style>
-				<defs>
-				</defs>
-				<path class="st0" d="M92,8.85c-3.39,1.5-7.02,2.52-10.84,2.97c3.9-2.34,6.89-6.04,8.3-10.44c-3.65,2.16-7.69,3.73-11.99,4.58
-					C74.03,2.29,69.12,0,63.7,0C53.27,0,44.82,8.45,44.82,18.87c0,1.48,0.17,2.92,0.49,4.3c-15.69-0.79-29.6-8.3-38.9-19.72
-					c-1.62,2.79-2.56,6.03-2.56,9.49c0,6.55,3.33,12.32,8.4,15.71c-3.09-0.1-6-0.95-8.55-2.36c0,0.08,0,0.16,0,0.24
-					c0,9.15,6.51,16.77,15.14,18.51c-1.58,0.43-3.25,0.66-4.97,0.66c-1.21,0-2.4-0.12-3.55-0.34c2.4,7.5,9.37,12.96,17.63,13.11
-					c-6.46,5.06-14.6,8.08-23.44,8.08c-1.52,0-3.03-0.09-4.5-0.27c8.35,5.36,18.27,8.48,28.93,8.48c34.72,0,53.7-28.76,53.7-53.71
-					c0-0.82-0.02-1.63-0.05-2.44C86.27,15.96,89.47,12.64,92,8.85z"/>
-				</svg>	
-			</a>
-			<a href="https://www.instagram.com/easternstate" class="icon" target="_blank">
-				<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In  -->
-				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="86px"
-					 height="86px" viewBox="0 0 86 86" style="enable-background:new 0 0 86 86;" xml:space="preserve">
-				<style type="text/css">
-					.st0{fill:#FFFFFF;}
-				</style>
-				<defs>
-				</defs>
-				<path class="st0" d="M69,43c0,14.36-11.64,26-26,26c-14.36,0-26-11.64-26-26c0-1.71,0.17-3.38,0.48-5H0v34.56
-					C0,79.98,6.01,86,13.44,86h59.12C79.98,86,86,79.98,86,72.56V38H68.51C68.83,39.62,69,41.29,69,43z M72.56,0H13.44
-					C6.01,0,0,6.02,0,13.44V28h21.77C26.48,21.35,34.23,17,43,17c8.77,0,16.52,4.35,21.23,11H86V13.44C86,6.02,79.98,0,72.56,0z
-					 M79.13,16.6c0,1.32-1.08,2.4-2.4,2.4h-7.2c-1.32,0-2.4-1.08-2.4-2.4V9.4c0-1.32,1.08-2.4,2.4-2.4h7.2c1.32,0,2.4,1.08,2.4,2.4V16.6
-					z M59,43c0-8.84-7.16-16-16-16c-8.84,0-16,7.16-16,16s7.16,16,16,16C51.84,59,59,51.84,59,43z"/>
-				</svg>
-			</a>
-	    </div>
+		<div class="scrollable">
+		    <ul>
+				<li <?php if ($page_id == 0){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>">Home</a></li>
+				<li <?php if ($page_id == 1){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>screening-schedule">Screening Schedule</a></li>
+				<li <?php if ($page_id == 2){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>about-the-project">About the Project</a></li>
+				<li <?php if ($page_id == 3){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>project-team-and-advisors">Project Team & Advisors</a></li>
+				<li <?php if ($page_id == 4){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>documentary-preview">Documentary Preview</a></li>
+				<li><a href="https://www.easternstate.org/" target="_blank">Visit Eastern State Penitentiary Historic Site</a></li>
+		    </ul>
+		    <div class="credit">
+			    <address>
+				    Eastern State Penitentiary<br/>
+				    2027 Fairmount Avenue<br/>
+					Philadelphia, PA 19130
+			    </address>
+				
+				<a href="mailto:info@easternstate.org">info@easternstate.org</a>
+				<a href="tel:215-236-3300">(215) 236-3300</a>
+				<br/>
+				
+				#HiddenLives <br/><br/>
+				<a href="https://www.facebook.com/Eastern-State-Penitentiary-125028907507788/" class="icon" target="_blank">
+					<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In  -->
+					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px"
+						 height="90px" viewBox="0 0 50 90" style="enable-background:new 0 0 50 90;" xml:space="preserve">
+					<style type="text/css">
+						.st0{fill:#FFFFFF;}
+					</style>
+					<defs>
+					</defs>
+					<path class="st0" d="M50,15.65H35.72c-1.69,0-3.57,2.22-3.57,5.19v10.31H50v14.7H32.14V90H15.29V45.85H0v-14.7h15.29V22.5
+						C15.29,10.09,23.9,0,35.72,0H50V15.65z"/>
+					</svg>
+				</a>
+				<a href="https://www.twitter.com/easternstate" class="icon" target="_blank">
+					<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In  -->
+					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="92px"
+						 height="74.77px" viewBox="0 0 92 74.77" style="enable-background:new 0 0 92 74.77;" xml:space="preserve">
+					<style type="text/css">
+						.st0{fill:#FFFFFF;}
+					</style>
+					<defs>
+					</defs>
+					<path class="st0" d="M92,8.85c-3.39,1.5-7.02,2.52-10.84,2.97c3.9-2.34,6.89-6.04,8.3-10.44c-3.65,2.16-7.69,3.73-11.99,4.58
+						C74.03,2.29,69.12,0,63.7,0C53.27,0,44.82,8.45,44.82,18.87c0,1.48,0.17,2.92,0.49,4.3c-15.69-0.79-29.6-8.3-38.9-19.72
+						c-1.62,2.79-2.56,6.03-2.56,9.49c0,6.55,3.33,12.32,8.4,15.71c-3.09-0.1-6-0.95-8.55-2.36c0,0.08,0,0.16,0,0.24
+						c0,9.15,6.51,16.77,15.14,18.51c-1.58,0.43-3.25,0.66-4.97,0.66c-1.21,0-2.4-0.12-3.55-0.34c2.4,7.5,9.37,12.96,17.63,13.11
+						c-6.46,5.06-14.6,8.08-23.44,8.08c-1.52,0-3.03-0.09-4.5-0.27c8.35,5.36,18.27,8.48,28.93,8.48c34.72,0,53.7-28.76,53.7-53.71
+						c0-0.82-0.02-1.63-0.05-2.44C86.27,15.96,89.47,12.64,92,8.85z"/>
+					</svg>	
+				</a>
+				<a href="https://www.instagram.com/easternstate" class="icon" target="_blank">
+					<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In  -->
+					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="86px"
+						 height="86px" viewBox="0 0 86 86" style="enable-background:new 0 0 86 86;" xml:space="preserve">
+					<style type="text/css">
+						.st0{fill:#FFFFFF;}
+					</style>
+					<defs>
+					</defs>
+					<path class="st0" d="M69,43c0,14.36-11.64,26-26,26c-14.36,0-26-11.64-26-26c0-1.71,0.17-3.38,0.48-5H0v34.56
+						C0,79.98,6.01,86,13.44,86h59.12C79.98,86,86,79.98,86,72.56V38H68.51C68.83,39.62,69,41.29,69,43z M72.56,0H13.44
+						C6.01,0,0,6.02,0,13.44V28h21.77C26.48,21.35,34.23,17,43,17c8.77,0,16.52,4.35,21.23,11H86V13.44C86,6.02,79.98,0,72.56,0z
+						 M79.13,16.6c0,1.32-1.08,2.4-2.4,2.4h-7.2c-1.32,0-2.4-1.08-2.4-2.4V9.4c0-1.32,1.08-2.4,2.4-2.4h7.2c1.32,0,2.4,1.08,2.4,2.4V16.6
+						z M59,43c0-8.84-7.16-16-16-16c-8.84,0-16,7.16-16,16s7.16,16,16,16C51.84,59,59,51.84,59,43z"/>
+					</svg>
+				</a>
+		    </div>
+		</div>
     </nav>
 
 	<header>

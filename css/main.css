@@ -147,29 +147,26 @@ nav {
   transition: 0.5s all;
   background: #ff5252 !important;
   z-index: 99;
-  transform: translateX(400px);
-  padding: 30px 0; }
+  transform: translateX(400px); }
   @media (max-width: 767px) {
     nav {
       width: 300px;
       transform: translateX(300px); } }
   nav.active {
     transform: translateX(0); }
+  nav .scrollable {
+    padding: 30px 0;
+    overflow-y: auto;
+    height: 100%; }
   nav .credit {
     font-size: 1rem;
-    position: absolute;
-    bottom: 50px;
     font-style: italic;
     color: white;
-    padding: 0 40px;
+    padding: 40px;
     opacity: 0.8; }
     @media (max-width: 767px) {
       nav .credit {
-        padding: 0 25px; } }
-@media screen and (max-width: 767px) and (orientation: landscape) {
-  nav .credit {
-    display: none; } }
-
+        padding: 25px; } }
     nav .credit address {
       color: white; }
     nav .credit a {
