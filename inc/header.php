@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@1.6.12/dist/css/lightgallery.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700|Roboto:300,300i,400,400i,700,700i">
-    <link rel="stylesheet" href="<?php echo $base_path; ?>css/main.css">
+    <link rel="stylesheet" href="<?php echo $base_path; ?>css/main.css?v=1.0">
 
     <title><?php if ($page_title){ echo $page_title . ' | ' . $site_title; } else { echo $site_title . ' | ' . $site_desc; } ?></title>
 </head>
