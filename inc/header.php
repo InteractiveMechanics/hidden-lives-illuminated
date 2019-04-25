@@ -19,6 +19,16 @@
     <title><?php if ($page_title){ echo $page_title . ' | ' . $site_title; } else { echo $site_title . ' | ' . $site_desc; } ?></title>
 </head>
 <body class="fade-in <?php if ($inverse): ?>inverse<?php endif; ?>">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-212020-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-212020-4');
+</script>
+
 	<nav>
 		<div id="menu-icon">
 			<div class="menu-icon-bar"></div>
