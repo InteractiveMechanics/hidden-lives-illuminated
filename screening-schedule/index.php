@@ -14,314 +14,63 @@
 			<div class="page-content clearfix">
 				<h1><?php echo $page_title; ?></h1>
 				
+				<div class="text-center">
+					<h2 class="text-underline">Screening Details</h2>
+				</div>
 				<ul>
 					<li>Screenings last about 40 minutes, and are looped three times nightly.</li>
-					<li>Start times are 7 pm, 8 pm, and 9 pm nightly						 </li>
+					<li>Start times are 7 pm, 8 pm, and 9 pm nightly, rain or shine		 	 </li>
 					<li>Recommended arrival time: 15 minutes before screening begins		 </li>
 					<li>Each week features different films, grouped by theme (see below)	 </li>
-					<li>Rain or shine														 </li>
 					<li>Free and open to the public											 </li>
 					<li>2100 Fairmount Avenue, Philadelphia PA 19130						 </li>
 				</ul>
+				<br /><br />
 				
-				<br/>
-				<h3 name="Week1">Week 1: The View from Inside 			<small>August 15 to August 21, 2019</small></h3><br/>
-				<h3 name="Week2">Week 2: Criminal Justice Today 		<small>August 22 to August 28, 2019</small></h3><br/>
-				<h3 name="Week3">Week 3: Family and Community Impact 	<small>August 29 to September 4, 2019</small></h3><br/>
-				<h3 name="Week4">Week 4: Restorative Justice			<small>September 5 to September 11, 2019</small></h3><br/>
-				<h3 name="Week5">Finale 								<small>September 12, 2019</small></h3>
-				
-				<!--
-				<ul class="nav">
-					<li class="nav-item"><a class="nav-link" href="#Week1">Week 1 (8/15-8/21)</a></li>
-					<li class="nav-item"><a class="nav-link" href="#Week2">Week 2 (8/22-8/28)</a></li>
-					<li class="nav-item"><a class="nav-link" href="#Week3">Week 3 (8/29-9/4)</a></li>
-					<li class="nav-item"><a class="nav-link" href="#Week4">Week 4 (9/5-9/11)</a></li>
-					<li class="nav-item"><a class="nav-link" href="#Week5">Week 5 (9/12)</a></li>
-				</ul>
-				<hr />
-				
-				<h2 name="Week1">Week 1: Theme TBD <small>August 15 to August 21</small></h2>
-				<figure>
-					<img src="https://via.placeholder.com/1200x600" alt="" />
-					<figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed leo augue.</figcaption>
-				</figure>
-				
-				<h4 data-toggle="collapse" data-target="#Week1Films">The Films +</h4>
-				<div class="collapse" id="Week1Films">
-					<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-					
-					<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-					
-					<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-					
-					<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-					
-					<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-					
-					<h5>Guest Film</h5>
-					<h3><a href="<?php echo $base_path; ?>films/film-title" target="_blank">Film Title</a> <small>Film Maker Name</small></h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
+				<div class="cal cal-week1">
+					<h2>Week 1: The View from Inside</h2>
+					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-15" class="cal-wed">AUG <span>15</span></a>
+					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-16" class="cal-thr">AUG <span>16</span></a>
+					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-17" class="cal-fri">AUG <span>17</span></a>
+					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-18" class="cal-sat">AUG <span>18</span></a>
+					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-19" class="cal-sun">AUG <span>19</span></a>
+					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-20" class="cal-mon">AUG <span>20</span></a>
+					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-21" class="cal-tue">AUG <span>21</span></a>
 				</div>
-				
-				<div class="clearfix"></div>
-				
-				<h4 data-toggle="collapse" data-target="#Week1Speakers">Speakers & Activities +</h4>
-				<div class="collapse" id="Week1Speakers">
-				
-					<h5>Thursday, August 15</h5>
-					<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-					<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-					
-					<h5>Friday, August 16</h5>
-					<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-					<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-					
-					<h5>Saturday, August 17</h5>
-					<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-					<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-					
-					<h5>Sunday, August 18</h5>
-					<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-					<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-					
-					<h5>Monday, August 19</h5>
-					<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-					<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-					
-					<h5>Tuesday, August 20</h5>
-					<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-					<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-					
-					<h5>Wednesday, August 21</h5>
-					<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-					<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
+				<div class="cal cal-week2">
+					<h2>Week 2: Criminal Justice Today</h2>
+					<a href="#" class="cal-wed">AUG <span>22</span></a>
+					<a href="#" class="cal-thr">AUG <span>23</span></a>
+					<a href="#" class="cal-fri">AUG <span>24</span></a>
+					<a href="#" class="cal-sat">AUG <span>25</span></a>
+					<a href="#" class="cal-sun">AUG <span>26</span></a>
+					<a href="#" class="cal-mon">AUG <span>27</span></a>
+					<a href="#" class="cal-tue">AUG <span>28</span></a>
 				</div>
-				<hr />
-				
-				
-				<h2 name="Week2">Week 2: Theme TBD <small>August 22 to August 28</small></h2>
-				<figure>
-					<img src="https://via.placeholder.com/1200x600" alt="" />
-					<figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed leo augue.</figcaption>
-				</figure>
-				
-				<h4>The Films</h4>
-					
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h5>Guest Film</h5>
-				<h3><a href="<?php echo $base_path; ?>films/film-title" target="_blank">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-
-				
-				<h4>Speakers & Activities</h4>
-				<h5>Thursday, August 22</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Friday, August 23</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Saturday, August 24</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Sunday, August 25</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Monday, August 26</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Tuesday, August 27</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Wednesday, August 28</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				
-				<hr />
-				
-				
-				<h2 name="Week3">Week 3: Theme TBD <small>August 29 to September 4</small></h2>
-				<figure>
-					<img src="https://via.placeholder.com/1200x600" alt="" />
-					<figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed leo augue.</figcaption>
-				</figure>
-				
-				<h4>The Films</h4>
-					
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h5>Guest Film</h5>
-				<h3><a href="<?php echo $base_path; ?>films/film-title" target="_blank">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-
-				
-				<h4>Speakers & Activities</h4>
-				<h5>Thursday, August 29</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Friday, August 30</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Saturday, August 31</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Sunday, September 1</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Monday, September 2</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Tuesday, September 3</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Wednesday, September 4</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				
-				<hr />
-				
-				
-				<h2 name="Week4">Week 4: Theme TBD <small>September 5 to September 11</small></h2>
-				<figure>
-					<img src="https://via.placeholder.com/1200x600" alt="" />
-					<figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed leo augue.</figcaption>
-				</figure>
-				
-				<h4>The Films</h4>
-					
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h5>Guest Film</h5>
-				<h3><a href="<?php echo $base_path; ?>films/film-title" target="_blank">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-
-				
-				<h4>Speakers & Activities</h4>
-				<h5>Thursday, September 5</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Friday, September 6</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Saturday, September 7</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Sunday, September 8</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Monday, September 9</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Tuesday, September 10</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				<h5>Wednesday, September 11</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				
-				<hr />
-				
-				
-				<h2 name="Week5">Week 5: Theme TBD <small>September 12 to September 17</small></h2>
-				<figure>
-					<img src="https://via.placeholder.com/1200x600" alt="" />
-					<figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed leo augue.</figcaption>
-				</figure>
-				
-				<h4>The Films</h4>
-					
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h3><a href="<?php echo $base_path; ?>films/film-title">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-				
-				<h5>Guest Film</h5>
-				<h3><a href="<?php echo $base_path; ?>films/film-title" target="_blank">Film Title</a> <small>Film Maker Name</small></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus maximus lorem vel malesuada. Nulla id erat et libero porttitor feugiat.</p>
-
-				
-				<h4>Speakers & Activities</h4>
-				<h5>Thursday, September 12</h5>
-				<h3>Speaker Name 1, Speaker Name 2, Speaker Name 3</h3>
-				<p>Nulla tincidunt, justo vel iaculis congue, nisi mauris consectetur arcu, et aliquam orci lectus.</p>
-				
-				-->
+				<div class="cal cal-week3">
+					<h2>Week 3: Family and Community Impact</h2>
+					<a href="#" class="cal-wed">AUG <span>29</span></a>
+					<a href="#" class="cal-thr">AUG <span>30</span></a>
+					<a href="#" class="cal-fri">AUG <span>31</span></a>
+					<a href="#" class="cal-sat">SEP <span>1</span></a>
+					<a href="#" class="cal-sun">SEP <span>2</span></a>
+					<a href="#" class="cal-mon">SEP <span>3</span></a>
+					<a href="#" class="cal-tue">SEP <span>4</span></a>
+				</div>
+				<div class="cal cal-week4">
+					<h2>Week 4: Restorative Justice</h2>
+					<a href="#" class="cal-wed">SEP <span>5</span></a>
+					<a href="#" class="cal-thr">SEP <span>6</span></a>
+					<a href="#" class="cal-fri">SEP <span>7</span></a>
+					<a href="#" class="cal-sat">SEP <span>8</span></a>
+					<a href="#" class="cal-sun">SEP <span>9</span></a>
+					<a href="#" class="cal-mon">SEP <span>10</span></a>
+					<a href="#" class="cal-tue">SEP <span>11</span></a>
+				</div>
+				<div class="cal cal-week5">
+					<h2>Finale</h2>
+					<a href="#" class="cal-wed">SEP <span>12</span></a>
+				</div>
 			</div>
 		</div>
 	</div>

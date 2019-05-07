@@ -293,6 +293,10 @@ nav {
 	}
 }
 
+.text-indent {
+	text-indent: 50px;
+	display: inline-block;
+}
 .clearfix::after {
   	content: "";
   	clear: both;

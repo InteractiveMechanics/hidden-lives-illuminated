@@ -29,6 +29,7 @@
 		    <ul>
 				<li <?php if ($page_id == 0){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>">Home</a></li>
 				<li <?php if ($page_id == 1){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>screening-schedule">Screening Schedule</a></li>
+				<li <?php if ($page_id == 5){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>films">Films</a></li>
 				<li <?php if ($page_id == 2){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>about-the-project">About the Project</a></li>
 				<li <?php if ($page_id == 3){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>project-team-and-advisors">Project Team & Advisors</a></li>
 				<li <?php if ($page_id == 4){ echo "class='active'"; } ?>><a href="<?php echo $base_path; ?>documentary-preview">Documentary Preview</a></li>
