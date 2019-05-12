@@ -12,11 +12,13 @@
 		<div class="col-sm-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
 			<div class="page-content clearfix">
 				<a href="<?php echo $base_path; ?>screening-schedule" class="return-to">&larr; Return to Screening Schedule</a>
+				<h3>Week 1: The View from Inside</h3>
 				<h1><?php echo $page_title; ?></h1>
+				
 				
 				<br /><br />
 				<div class="text-center">
-					<h2 class="text-underline">The Films</h2>
+					<h2 class="text-underline">Original Films</h2>
 				</div>
 				<div class="clearfix"></div>
 				
@@ -24,6 +26,23 @@
 				<a href="#"><h3>Sample Filmmaker</h3></a>
 				<p>Film Title</p>
 				<div class="clearfix"></div><br/>
+				
+				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-pennsylvania-state-correctional.jpg" alt="Sample Filmmaker" class="float-left max-200" />
+				<a href="#"><h3>Sample Filmmaker</h3></a>
+				<p>Film Title</p>
+				<div class="clearfix"></div><br/>
+				
+				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-pennsylvania-state-correctional.jpg" alt="Sample Filmmaker" class="float-left max-200" />
+				<a href="#"><h3>Sample Filmmaker</h3></a>
+				<p>Film Title</p>
+				<div class="clearfix"></div><br/>
+				
+				
+				<br /><br />
+				<div class="text-center">
+					<h2 class="text-underline">Guest Films</h2>
+				</div>
+				<div class="clearfix"></div>
 				
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-pennsylvania-state-correctional.jpg" alt="Sample Filmmaker" class="float-left max-200" />
 				<a href="#"><h3>Sample Filmmaker</h3></a>

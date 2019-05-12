@@ -28,7 +28,7 @@
 				<br /><br />
 				
 				<div class="cal cal-week1">
-					<h2>Week 1: The View from Inside</h2>
+					<h2>Week 1:&nbsp;&nbsp;The View from Inside</h2>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-15" class="cal-wed">AUG <span>15</span></a>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-16" class="cal-thr">AUG <span>16</span></a>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-17" class="cal-fri">AUG <span>17</span></a>
@@ -38,7 +38,7 @@
 					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-21" class="cal-tue">AUG <span>21</span></a>
 				</div>
 				<div class="cal cal-week2">
-					<h2>Week 2: Criminal Justice Today</h2>
+					<h2>Week 2:&nbsp;&nbsp;Criminal Justice Today</h2>
 					<a href="#" class="cal-wed">AUG <span>22</span></a>
 					<a href="#" class="cal-thr">AUG <span>23</span></a>
 					<a href="#" class="cal-fri">AUG <span>24</span></a>
@@ -48,7 +48,7 @@
 					<a href="#" class="cal-tue">AUG <span>28</span></a>
 				</div>
 				<div class="cal cal-week3">
-					<h2>Week 3: Family and Community Impact</h2>
+					<h2>Week 3:&nbsp;&nbsp;Family and Community Impact</h2>
 					<a href="#" class="cal-wed">AUG <span>29</span></a>
 					<a href="#" class="cal-thr">AUG <span>30</span></a>
 					<a href="#" class="cal-fri">AUG <span>31</span></a>
@@ -58,7 +58,7 @@
 					<a href="#" class="cal-tue">SEP <span>4</span></a>
 				</div>
 				<div class="cal cal-week4">
-					<h2>Week 4: Restorative Justice</h2>
+					<h2>Week 4:&nbsp;&nbsp;Restorative Justice</h2>
 					<a href="#" class="cal-wed">SEP <span>5</span></a>
 					<a href="#" class="cal-thr">SEP <span>6</span></a>
 					<a href="#" class="cal-fri">SEP <span>7</span></a>
