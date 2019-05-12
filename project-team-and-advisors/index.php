@@ -73,8 +73,8 @@
 				<p>Jon Kauffman and El Sawyer</p>
 				<div class="clearfix"></div><br/>
 				
-				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-nicole-rodriguez.jpg" alt="Nicole Rodriguez" class="float-left" />
-				<h3>Nicole Rodriguez <small>Guest Teaching Artist (Animation)</small></h3>
+				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-nicole-rodriguez.jpg" alt="Nicole Rodrigues" class="float-left" />
+				<h3>Nicole Rodrigues <small>Guest Teaching Artist (Animation)</small></h3>
 				<div class="clearfix"></div><br/>
 				
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-steve-schaff.jpg" alt="Stephen Schaffer" class="float-left" />
