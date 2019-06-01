@@ -73,6 +73,10 @@
 				<p>Jon Kauffman and El Sawyer</p>
 				<div class="clearfix"></div><br/>
 				
+				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-mandee-quinn.jpg" alt="Mandee Quinn" class="float-left" />
+				<h3>Mandee Quinn <small>PA Department of Corrections</small></h3>
+				<div class="clearfix"></div><br/>
+				
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-nicole-rodriguez.jpg" alt="Nicole Rodrigues" class="float-left" />
 				<h3>Nicole Rodrigues <small>Guest Teaching Artist (Animation)</small></h3>
 				<div class="clearfix"></div><br/>
