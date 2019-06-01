@@ -27,6 +27,13 @@
 				</ul>
 				<br /><br />
 				
+				<h3 name="Week1">Week 1: The View from Inside 			<small>August 15 to August 21, 2019</small></h3><br/>
+				<h3 name="Week2">Week 2: Criminal Justice Today 		<small>August 22 to August 28, 2019</small></h3><br/>
+				<h3 name="Week3">Week 3: Family and Community Impact 	<small>August 29 to September 4, 2019</small></h3><br/>
+				<h3 name="Week4">Week 4: Restorative Justice			<small>September 5 to September 11, 2019</small></h3><br/>
+				<h3 name="Week5">Finale 								<small>September 12, 2019</small></h3>
+				
+				<!--
 				<div class="cal cal-week1">
 					<h2>Week 1:&nbsp;&nbsp;The View from Inside</h2>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-15" class="cal-wed">AUG <span>15</span></a>
@@ -71,6 +78,8 @@
 					<h2>Finale</h2>
 					<a href="#" class="cal-wed">SEP <span>12</span></a>
 				</div>
+				
+				-->
 			</div>
 		</div>
 	</div>
