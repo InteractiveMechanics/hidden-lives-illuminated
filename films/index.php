@@ -1,7 +1,7 @@
 <?php 
 	$base_path 		= "/hiddenlives/";	
 	$page_class 	= "page-interior";
-	$page_title		= "Films";
+	$page_title		= "The Films";
 	$page_id		= 5;
 	$inverse		= false;
 	
