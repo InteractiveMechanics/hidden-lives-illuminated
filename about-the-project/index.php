@@ -57,7 +57,7 @@
 				</div>
 				<p>
 					Films will be screened onto a 20-by-30-foot area of Eastern State’s façade each night from August 15 through September 12, 2019 
-					using a concert grade digital projector. A total of 21 original short films will be shown throughout the month, each created 
+					using a concert grade digital projector. A total of 20 original short films will be shown throughout the month, each created 
 					for this project by artists currently incarcerated in Pennsylvania prisons and jails.  The films will offer an intimate look inside 
 					America’s correctional system, conceived, narrated and animated by incarcerated people. Screenings will be free and open to the public, 
 					and content will be appropriate for people of all ages.
@@ -84,22 +84,20 @@
 				<br />
 				<div id="caption-05" style="display:none">
 					<p style="font-size: 100%; line-height: 1.6; max-width: 720px; margin: 0 auto; padding: 10px 0 15px;">
-						Student filmmakers respond to seeing their drawings animated in a zoetrope cylinder during classes at the Pennsylvania 
-						State Correctional Institution at Chester. The students’ final animation projects will be featured in <em>Hidden Lives Illuminated</em> 
-						at Eastern State Penitentiary, August 15 to September 12, 2019. The project will culminate in a one-night festival on September 12, 
-						during which a documentary film about the artists will play inside the historic site’s cellblocks.
-						<small class="d-block">Photo: Richard Patterson, courtesy of Eastern State Penitentiary Historic Site, Philadelphia.</small>
+						Animation classes at Philadelphia’s Riverside Correctional Facility for Women, fall 2018. The students’ final animation project 
+						will be featured in <em>Hidden Lives Illuminated</em> at Eastern State Penitentiary, August 15 to September 12, 2019.
+						<small class="d-block">Photo: Shawn Hawes, Philadelphia Prison System.</small>
 					</p>
 				</div>
-				<a href="<?php echo $base_path; ?>assets/about/about-hidden-lives-illuminated-05.jpg" class="lightgallery" data-sub-html="#caption-05">
-					<img src="<?php echo $base_path; ?>assets/about/about-hidden-lives-illuminated-05.jpg" alt="" />
+				<a href="<?php echo $base_path; ?>assets/about/about-hidden-lives-illuminated-08.jpg" class="lightgallery" data-sub-html="#caption-05">
+					<img src="<?php echo $base_path; ?>assets/about/about-hidden-lives-illuminated-08.jpg" alt="" />
 				</a>
 				<br /><br />
 				<div class="text-center">
 					<h2 class="text-underline">Finale</h2>
 				</div>
 				<p>
-					The project will culminate in a one-night festival on September 12, during which all 21 original films will be screened back to back. 
+					The project will culminate in a one-night festival on September 12, during which all 20 original films will be screened back to back. 
 					A documentary film about the artists will play inside the historic site’s cellblocks.
 				</p>
 				
