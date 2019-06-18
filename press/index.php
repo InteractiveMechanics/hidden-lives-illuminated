@@ -32,7 +32,7 @@
 				
 				<br /><br />
 				<img src="<?php echo $base_path; ?>assets/press/hidden-lives-press-releases.jpg" alt="Hidden Lives Press Releases" class="float-left max-200" />
-				<a href="https://www.dropbox.com/s/lzbka1idh9z1xub/Press_Release-Long_Lead-Hidden_Lives_Illuminated.pdf?dl=0"><h3>Press Releases</h3></a>
+				<a href="https://www.dropbox.com/sh/a8pjjgtop36966o/AAB4k8fzk_Z7JgwnRSZg8TgUa?dl=0"><h3>Press Releases</h3></a>
 				<div class="clearfix"></div><br/>
 				
 				<img src="<?php echo $base_path; ?>assets/press/hidden-lives-images-and-credits.jpg" alt="Hidden Lives Images and Credits" class="float-left max-200" />
