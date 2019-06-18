@@ -14,7 +14,7 @@
 			<div class="page-content clearfix">
 				<h1><?php echo $page_title; ?></h1>
 				
-				<p>Media in Neighborhood Group (MING) are currently producing a documentary film about <em>Hidden Lives Illuminated</em>. 
+				<p>Media in Neighborhoods Group (MING) are currently producing a documentary film about <em>Hidden Lives Illuminated</em>. 
 					Find the completed documentary here in December, 2019.</p>
 					
 				<br />
