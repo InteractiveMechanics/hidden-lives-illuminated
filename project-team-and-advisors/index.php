@@ -61,7 +61,7 @@
 				<div class="clearfix"></div><br/>
 				
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-shawn-hawes.jpg" alt="Shawn Hawes" class="float-left" />
-				<h3>Shawn Hawes <small>Philadelphia Prison System</small></h3>
+				<h3>Shawn Hawes <small>Philadelphia Department of Prisons</small></h3>
 				<div class="clearfix"></div><br/>
 				
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-sean-kelley.jpg" alt="Sean Kelley" class="float-left" />
