@@ -143,8 +143,10 @@
 					<h2 class="text-underline">History and Inspiration</h2>
 				</div>
 				<p>
-					<em>Hidden Lives</em> was inspired by and modeled from the <a href="http://www.96acres.org/" target="_blank">96 Acres Project</a>
-					led by artist Maria Gaspar at Cook County Jail since 2012, specifically the animation "<a href="https://vimeo.com/100728960" target="_blank">Freedom/Time</a>," 
+					<em>Hidden Lives Illuminated</em> has been in development for three years. Teaching artists employed by Eastern State Penitentiary 
+					have been leading classes in storytelling, screen writing, narration and animation inside Pennsylvania correctional institutions since 
+					the summer of 2018. <em>Hidden Lives</em> was inspired by and modeled from the <a href="http://www.96acres.org/" target="_blank">96 Acres Project</a>
+					led by artist <a href="http://www.mariagaspar.com/" target="_blank">Maria Gaspar</a> at Cook County Jail since 2012, specifically the animation "<a href="https://vimeo.com/100728960" target="_blank">Freedom/Time</a>," 
 					a project orchestrated by artist Damon Locks and developed with the Jane Addams Hull House and Prison + Neighborhood Arts Project, 
 					and presented as part of <a href="https://vimeo.com/141363172" target="_blank">Stories from the Inside/Outside</a> on September 15, 2015.
 				</p>
