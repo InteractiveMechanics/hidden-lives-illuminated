@@ -72,6 +72,10 @@
 				<h3>Christina May <small>Storytelling Coach and Script Advisor</small></h3>
 				<div class="clearfix"></div><br/>
 				
+				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-damon-mccool.jpg" alt="Damon McCool" class="float-left" />
+				<h3>Damon McCool <small>Community Engagement, Program Facilitator</small></h3>
+				<div class="clearfix"></div><br/>
+				
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-ming.jpg" alt="MING Media" class="float-left" />
 				<h3>MING Media <small>Documentary Filmmakers</small></h3>
 				<p>Jon Kauffman and El Sawyer</p>
@@ -91,10 +95,6 @@
 				
 				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-lauren-zalut.jpg" alt="Lauren Zalut" class="float-left" />
 				<h3>Lauren Zalut <small>Community Engagement</small></h3>
-				<div class="clearfix"></div><br/>
-				
-				<img src="<?php echo $base_path; ?>assets/team/hidden-lives-damon-mccool.jpg" alt="Damon McCool" class="float-left" />
-				<h3>Damon McCool <small>Program Facilitator</small></h3>
 				<div class="clearfix"></div><br/>
 
 				<br /><br />
