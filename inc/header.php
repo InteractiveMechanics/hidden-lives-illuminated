@@ -28,7 +28,7 @@
     <title><?php if ($page_title){ echo $page_title . ' | ' . $site_title; } else { echo $site_title . ' | ' . $site_desc; } ?></title>
 </head>
 <body class="fade-in <?php if ($inverse): ?>inverse<?php endif; ?>">
-	<img height="1" width="1" style="border-style:none" alt="" src="//insight.adsrvr.org/track/conv/?adv=vzgy20d&amp;ct=0:f6rfi46&amp;fmt=3" />
+	<img height="1" width="1" style="border-style:none;position:fixed;" alt="" src="//insight.adsrvr.org/track/conv/?adv=vzgy20d&amp;ct=0:f6rfi46&amp;fmt=3" />
 	<nav>
 		<div id="menu-icon">
 			<div class="menu-icon-bar"></div>
