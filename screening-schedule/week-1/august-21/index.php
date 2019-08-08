@@ -1,7 +1,7 @@
 <?php 
 	$base_path 		= "/hiddenlives/";	
 	$page_class 	= "page-interior";
-	$page_title		= "Schedule for August 15";
+	$page_title		= "Schedule for August 21";
 	$page_id		= 1;
 	
 	require('../../../inc/header.php');
@@ -61,12 +61,26 @@
 				<p>Share your thoughts with the filmmakers! Postcards, pens, and postage will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided.</p>
 				<div class="clearfix"></div><br/>
 				
-				<h3>7:40 pm: Lightning Talk with William Wallace III</h3>
-				<p><em>Hidden Lives Illuminated</em> teaching artists Erika and William will give a 20-minute presentation about their work on the project, and will provide a hands-on activity for participants.</p>
+				<h3>7:40 pm: Jawn Appetit Podcast Taping</h3>
+				<p>Join local food podcast Jawn Appetit for a live taping with Todd Lewis of the Pennsylvania Department of Corrections Culinary Arts Training Program and Kurt Evans, a local chef who organizes the End Mass Incarceration Dinner series.</p>
+				<p>Located at the intersection of Philadelphia and food, the Jawn Appetit podcast is a fun, informative look at the local restaurant scene without the pretentiousness that you might find elsewhere. Each week, they give you their takes on the hottest establishments in Philly and tell you where you can find the best eats in (and around) the City of Brotherly Love. To learn more about Jawn Appetit, visit www.JawnAppetit.com.</p>
 				<div class="clearfix"></div><br/>
 				
-				<p class="text-muted">These events (as with all events during <em>Hidden Lives Illuminated</em>) are free and open to the public. 
-					No reservations required. Appropriate for all ages.</p>
+				<p class="text-muted">These events (as with all events during <em>Hidden Lives Illuminated</em>) are free and open to the public. No reservations required. Appropriate for all ages.</p>
+				
+				
+				<br /><br />
+				<div class="text-center">
+					<h2 class="text-underline">Member Night</h2>
+				</div>
+				<div class="clearfix"></div><br />
+				
+				<h3>7:00 – 9:00 pm: Member Night</h3>
+				<p>On Wednesday evenings, Eastern State members receive special perks. Members should check in at the welcome table inside the <em>Hidden Lives Illuminated</em> Event Hub at OCF Coffee House.</p>
+				<div class="clearfix"></div><br/>
+				
+				
+				
 			</div>
 		</div>
 	</div>

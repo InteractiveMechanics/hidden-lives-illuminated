@@ -1,7 +1,7 @@
 <?php 
 	$base_path 		= "/hiddenlives/";	
 	$page_class 	= "page-interior";
-	$page_title		= "Schedule for August 15";
+	$page_title		= "Schedule for August 19";
 	$page_id		= 1;
 	
 	require('../../../inc/header.php');
@@ -61,12 +61,12 @@
 				<p>Share your thoughts with the filmmakers! Postcards, pens, and postage will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided.</p>
 				<div class="clearfix"></div><br/>
 				
-				<h3>7:40 pm: Lightning Talk with William Wallace III</h3>
-				<p><em>Hidden Lives Illuminated</em> teaching artists Erika and William will give a 20-minute presentation about their work on the project, and will provide a hands-on activity for participants.</p>
+				<h3>7:00 – 9:45 pm: Pennsylvania Prison Society</h3>
+				<p>Meet representatives from the Pennsylvania Prison Society and participate in a hands-on activity.</p>
+				<p>Since 1787, the Pennsylvania Prison Society has worked to ensure humane prison and jail conditions and advocate for sensible criminal justice policies. The Society is the oldest organization in the country dedicated to sensible and humane criminal justice, and was the founder of Eastern State Penitentiary. Today the Society advocates for systemic policy change, responds to the concerns of prisoners and their families, provides subsidized bus service for Philadelphia families visiting loved ones incarcerated in different parts of the state, and provides assistance to individuals returning home from incarceration. To learn more about the Pennsylvania Prison Society, visit www.PrisonSociety.org.</p>
 				<div class="clearfix"></div><br/>
 				
-				<p class="text-muted">These events (as with all events during <em>Hidden Lives Illuminated</em>) are free and open to the public. 
-					No reservations required. Appropriate for all ages.</p>
+				<p class="text-muted">These events (as with all events during <em>Hidden Lives Illuminated</em>) are free and open to the public. No reservations required. Appropriate for all ages.</p>
 			</div>
 		</div>
 	</div>

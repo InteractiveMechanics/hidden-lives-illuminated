@@ -1,7 +1,7 @@
 <?php 
 	$base_path 		= "/hiddenlives/";	
 	$page_class 	= "page-interior";
-	$page_title		= "Schedule for August 15";
+	$page_title		= "Schedule for August 20";
 	$page_id		= 1;
 	
 	require('../../../inc/header.php');
@@ -61,12 +61,11 @@
 				<p>Share your thoughts with the filmmakers! Postcards, pens, and postage will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided.</p>
 				<div class="clearfix"></div><br/>
 				
-				<h3>7:40 pm: Lightning Talk with William Wallace III</h3>
-				<p><em>Hidden Lives Illuminated</em> teaching artists Erika and William will give a 20-minute presentation about their work on the project, and will provide a hands-on activity for participants.</p>
+				<h3>7:00 – 9:00 pm: Justin Griggs</h3>
+				<p>Musician Justin Griggs will perform an acoustic set. Justin began playing the piano at the age of two, and he now plays 19 different instruments. His father gave him the guitar he will play tonight. Justin used music to cope with his father's incarceration. A student at CAPA, Justin is able to flourish into the eclectic musician that he is today. Justin and his musical talent are the subject of <em>Piano Priest</em>, an original film that will be screened Week 3 of <em>Hidden Lives Illuminated</em>.</p>
 				<div class="clearfix"></div><br/>
 				
-				<p class="text-muted">These events (as with all events during <em>Hidden Lives Illuminated</em>) are free and open to the public. 
-					No reservations required. Appropriate for all ages.</p>
+				<p class="text-muted">These events (as with all events during <em>Hidden Lives Illuminated</em>) are free and open to the public. No reservations required. Appropriate for all ages.</p>
 			</div>
 		</div>
 	</div>

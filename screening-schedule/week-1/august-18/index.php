@@ -1,7 +1,7 @@
 <?php 
 	$base_path 		= "/hiddenlives/";	
 	$page_class 	= "page-interior";
-	$page_title		= "Schedule for August 15";
+	$page_title		= "Schedule for August 18";
 	$page_id		= 1;
 	
 	require('../../../inc/header.php');
@@ -61,12 +61,11 @@
 				<p>Share your thoughts with the filmmakers! Postcards, pens, and postage will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided.</p>
 				<div class="clearfix"></div><br/>
 				
-				<h3>7:40 pm: Lightning Talk with William Wallace III</h3>
-				<p><em>Hidden Lives Illuminated</em> teaching artists Erika and William will give a 20-minute presentation about their work on the project, and will provide a hands-on activity for participants.</p>
+				<h3>7:00 – 9:45 pm: Hands-on Activities</h3>
+				<p>Join us for hands-on activities designed to bring people together and spark reflection on tonight’s films.</p>
 				<div class="clearfix"></div><br/>
 				
-				<p class="text-muted">These events (as with all events during <em>Hidden Lives Illuminated</em>) are free and open to the public. 
-					No reservations required. Appropriate for all ages.</p>
+				<p class="text-muted">These events (as with all events during <em>Hidden Lives Illuminated</em>) are free and open to the public. No reservations required. Appropriate for all ages.</p>
 			</div>
 		</div>
 	</div>

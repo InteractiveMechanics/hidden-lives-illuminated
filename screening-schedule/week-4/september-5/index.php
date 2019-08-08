@@ -1,7 +1,7 @@
 <?php 
 	$base_path 		= "/hiddenlives/";	
 	$page_class 	= "page-interior";
-	$page_title		= "Schedule for August 15";
+	$page_title		= "Schedule for September 5";
 	$page_id		= 1;
 	
 	require('../../../inc/header.php');
@@ -12,7 +12,7 @@
 		<div class="col-sm-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
 			<div class="page-content clearfix">
 				<a href="<?php echo $base_path; ?>screening-schedule" class="return-to">&larr; Return to Screening Schedule</a>
-				<h3>Week 1: The View from Inside</h3>
+				<h3>Week 4: Restorative Justice</h3>
 				<h1><?php echo $page_title; ?></h1>
 				
 				
@@ -22,19 +22,19 @@
 				</div>
 				<div class="clearfix"></div><br />
 				
-				<?php include('../../../inc/films/film-paul-m.php'); ?>
+				<?php include('../../../inc/films/film-jerome-l.php'); ?>
 				<div class="clearfix"></div><br/>
 				
-				<?php include('../../../inc/films/film-david-g.php'); ?>
+				<?php include('../../../inc/films/film-donyea-p.php'); ?>
 				<div class="clearfix"></div><br/>
 				
-				<?php include('../../../inc/films/film-aaron-w.php'); ?>
+				<?php include('../../../inc/films/film-ezra-b.php'); ?>
 				<div class="clearfix"></div><br/>
 				
-				<?php include('../../../inc/films/film-lamar-l.php'); ?>
+				<?php include('../../../inc/films/film-joseph-s.php'); ?>
 				<div class="clearfix"></div><br/>
 				
-				<?php include('../../../inc/films/film-qwasheam-r.php'); ?>
+				<?php include('../../../inc/films/film-michael-l.php'); ?>
 				<div class="clearfix"></div><br/>
 				
 				
@@ -44,10 +44,10 @@
 				</div>
 				<div class="clearfix"></div><br />
 				
-				<?php include('../../../inc/guest-films/guest-film-freedom-time.php'); ?>
+				<?php include('../../../inc/guest-films/guest-film-edge-of-daybreak.php'); ?>
 				<div class="clearfix"></div><br/>
 				
-				<?php include('../../../inc/guest-films/guest-film-the-long-term.php'); ?>
+				<?php include('../../../inc/guest-films/guest-film-restorative-justice.php'); ?>
 				<div class="clearfix"></div><br/>
 				
 				
@@ -61,12 +61,14 @@
 				<p>Share your thoughts with the filmmakers! Postcards, pens, and postage will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided.</p>
 				<div class="clearfix"></div><br/>
 				
-				<h3>7:40 pm: Lightning Talk with William Wallace III</h3>
-				<p><em>Hidden Lives Illuminated</em> teaching artists Erika and William will give a 20-minute presentation about their work on the project, and will provide a hands-on activity for participants.</p>
+				<h3>7:40 pm: Lightning Talk with Altovise Love-Craighead</h3>
+				<p>Altovise will give a 20-minute presentation about her work as a captain in the Philadelphia Police Department and co-founder of EMIR (Every Murder is Real).</p>
+				<p>EMIR Healing Center (Every Murder is Real) is a nonprofit organization that services and supports family members and friends who have been affected by homicide. To learn more about EMIR, visit www.EMIRphilly.org.</p>
 				<div class="clearfix"></div><br/>
 				
-				<p class="text-muted">These events (as with all events during <em>Hidden Lives Illuminated</em>) are free and open to the public. 
-					No reservations required. Appropriate for all ages.</p>
+				
+				<p class="text-muted">These events (as with all events during <em>Hidden Lives Illuminated</em>) are free and open to the public. No reservations required. Appropriate for all ages.</p>
+
 			</div>
 		</div>
 	</div>
