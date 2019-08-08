@@ -84,13 +84,11 @@
 				<br />
 				<div id="caption-05" style="display:none">
 					<p style="font-size: 100%; line-height: 1.6; max-width: 720px; margin: 0 auto; padding: 10px 0 15px;">
-						Animation classes at Philadelphia’s Riverside Correctional Facility for Women, fall 2018. The students’ final animation project 
-						will be featured in <em>Hidden Lives Illuminated</em> at Eastern State Penitentiary, August 15 to September 12, 2019.
-						<small class="d-block">Photo: Shawn Hawes, Philadelphia Prison System.</small>
+						<small class="d-block">Photo: Richard Patterson, courtesy of Eastern State Penitentiary Historic Site, Philadelphia.</small>
 					</p>
 				</div>
-				<a href="<?php echo $base_path; ?>assets/about/about-hidden-lives-illuminated-08.jpg" class="lightgallery" data-sub-html="#caption-05">
-					<img src="<?php echo $base_path; ?>assets/about/about-hidden-lives-illuminated-08.jpg" alt="" />
+				<a href="<?php echo $base_path; ?>assets/about/about-hidden-lives-illuminated-05.jpg" class="lightgallery" data-sub-html="#caption-05">
+					<img src="<?php echo $base_path; ?>assets/about/about-hidden-lives-illuminated-05.jpg" alt="" />
 				</a>
 				<br /><br />
 				<div class="text-center">
