@@ -38,7 +38,8 @@
 				-->
 				
 				<div class="cal cal-week1">
-					<h2>Week 1:&nbsp;&nbsp;The View from Inside</h2>
+					<h2>Week 1:</h2>
+					<h2 style="color: #ED5F59; margin-top: 0;">The View from Inside</h2>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-15" class="cal-wed">AUG <span>15</span></a>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-16" class="cal-thr">AUG <span>16</span></a>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-17" class="cal-fri">AUG <span>17</span></a>
@@ -48,7 +49,8 @@
 					<a href="<?php echo $base_path; ?>screening-schedule/week-1/august-21" class="cal-tue">AUG <span>21</span></a>
 				</div>
 				<div class="cal cal-week2">
-					<h2>Week 2:&nbsp;&nbsp;Criminal Justice Today</h2>
+					<h2>Week 2:</h2>
+					<h2 style="color: #ED5F59; margin-top: 0;">Criminal Justice Today</h2>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-2/august-22" class="cal-wed">AUG <span>22</span></a>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-2/august-23" class="cal-thr">AUG <span>23</span></a>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-2/august-24" class="cal-fri">AUG <span>24</span></a>
@@ -58,7 +60,8 @@
 					<a href="<?php echo $base_path; ?>screening-schedule/week-2/august-28" class="cal-tue">AUG <span>28</span></a>
 				</div>
 				<div class="cal cal-week3">
-					<h2>Week 3:&nbsp;&nbsp;Family and Community Impact</h2>
+					<h2>Week 3:</h2>
+					<h2 style="color: #ED5F59; margin-top: 0;">Family and Community Impact</h2>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-3/august-29" class="cal-wed">AUG <span>29</span></a>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-3/august-30" class="cal-thr">AUG <span>30</span></a>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-3/august-31" class="cal-fri">AUG <span>31</span></a>
@@ -68,7 +71,8 @@
 					<a href="<?php echo $base_path; ?>screening-schedule/week-3/september-4" class="cal-tue">SEP <span>4</span></a>
 				</div>
 				<div class="cal cal-week4">
-					<h2>Week 4:&nbsp;&nbsp;Restorative Justice</h2>
+					<h2>Week 4:</h2>
+					<h2 style="color: #ED5F59; margin-top: 0;">Restorative Justice</h2>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-4/september-5" class="cal-wed">SEP <span>5</span></a>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-4/september-6" class="cal-thr">SEP <span>6</span></a>
 					<a href="<?php echo $base_path; ?>screening-schedule/week-4/september-7" class="cal-fri">SEP <span>7</span></a>
@@ -78,7 +82,7 @@
 					<a href="<?php echo $base_path; ?>screening-schedule/week-4/september-11" class="cal-tue">SEP <span>11</span></a>
 				</div>
 				<div class="cal cal-week5">
-					<h2>Finale</h2>
+					<h2>Finale!</h2>
 					<a href="<?php echo $base_path; ?>screening-schedule/finale" class="cal-wed">SEP <span>12</span></a>
 				</div>
 				
