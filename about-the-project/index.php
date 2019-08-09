@@ -84,6 +84,7 @@
 				<br />
 				<div id="caption-05" style="display:none">
 					<p style="font-size: 100%; line-height: 1.6; max-width: 720px; margin: 0 auto; padding: 10px 0 15px;">
+						Student filmmakers respond to seeing their drawings animated in a zoetrope cylinder during classes at the Pennsylvania State Correctional Institution at Chester.
 						<small class="d-block">Photo: Richard Patterson, courtesy of Eastern State Penitentiary Historic Site, Philadelphia.</small>
 					</p>
 				</div>
