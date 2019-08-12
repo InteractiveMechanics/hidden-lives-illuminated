@@ -75,6 +75,7 @@
 					<li>Notebooks</li>
 					<li>Backpacks</li>
 					<li>Folders</li>
+					<li>Feminine Hygiene Products</li>
 				</ul>
 				<p>If you have any questions, please contact Damon McCool at dm@easternstate.org or at (215) 236-5111 x243. Thank you for your support!</p>
 				<div class="clearfix"></div><br/>

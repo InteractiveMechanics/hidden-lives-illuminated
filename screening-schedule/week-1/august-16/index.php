@@ -58,11 +58,11 @@
 				<div class="clearfix"></div><br />
 				
 				<h3>7:00 – 9:45 pm: Write the Filmmakers</h3>
-				<p>Share your thoughts with the filmmakers! Postcards, pens, and postage will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided.</p>
+				<p>Share your thoughts with the filmmakers! Postcards and pens will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided. We’ll take care of delivering your message.</p>
 				<div class="clearfix"></div><br/>
 				
-				<h3>7:40 pm: Lightning Talk with Erika Tsuchiya-Bergere and William Wallace III</h3>
-				<p>Terrance will give a 20-minute presentation about incarceration, exoneration, and reentry.</p>
+				<h3>7:40 pm: Lightning Talk with Terrance Lewis</h3>
+				<p>Terrance Lewis is a native Philadelphian who was exonerated in May after being incarcerated for 21 years. His story has been documented by numerous publications since his release. He will give a 20-minute presentation about his life and his plans for the future.</p>
 				<div class="clearfix"></div><br/>
 				
 				<p class="text-muted">These events (as with all events during <em>Hidden Lives Illuminated</em>) are free and open to the public. 

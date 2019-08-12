@@ -58,10 +58,10 @@
 				<div class="clearfix"></div><br />
 				
 				<h3>7:00 – 9:45 pm: Write the Filmmakers</h3>
-				<p>Share your thoughts with the filmmakers! Postcards, pens, and postage will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided.</p>
+				<p>Share your thoughts with the filmmakers! Postcards and pens will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided. We’ll take care of delivering your message.</p>
 				<div class="clearfix"></div><br/>
 				
-				<h3>7:40 pm: Lightning Talk with William Wallace III</h3>
+				<h3>7:40 pm: Lightning Talk with Erika Tsuchiya-Bergere and William Wallace III</h3>
 				<p><em>Hidden Lives Illuminated</em> teaching artists Erika and William will give a 20-minute presentation about their work on the project, and will provide a hands-on activity for participants.</p>
 				<div class="clearfix"></div><br/>
 				
