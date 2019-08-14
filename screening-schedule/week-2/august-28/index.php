@@ -58,15 +58,15 @@
 				<div class="clearfix"></div><br />
 				
 				<h3>7:00 – 9:45 pm: Write the Filmmakers</h3>
-				<p>Share your thoughts with the filmmakers! Postcards, pens, and postage will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided.</p>
+				<p>Share your thoughts with the filmmakers! Postcards and pens will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided. We’ll take care of delivering your message.</p>
 				<div class="clearfix"></div><br/>
 				
 				<h3>7:00 – 9:00 pm: Learn how you can get involved!</h3>
 				<p>Join us for an open house with these community organizations and learn how you can get involved:</p>
 				<ul>
-					<li>The Institute for Community Justice is a comprehensive prison services and reentry program providing health linkages, supportive services, education, and advocacy for individuals, families and communities impacted by mass incarceration. To learn more about ICJ, visit www.fight.org.</li>
-					<li>Interim House provides a continuum of comprehensive services to women addicted to drugs and alcohol that includes three levels of care: Residential Treatment, Intensive Outpatient Treatment, and Outpatient Counseling. Incorporated in 1971, Interim House was the first such specialized program in the Commonwealth of Pennsylvania and one of the first in the nation. It has served as a model for innovative treatment of substance abusing women. To learn more about Interim House, visit www.InterimHouse.org.</li>
-					<li>The Mayor’s Office of Reintegration Services (RISE) and PA Career Link provide employment support to individuals who have been previously convicted, sentenced and incarcerated. This includes vocational training, computer literacy, and job search assistance. To learn more about RISE and PA Career Link, visit www.phila.gov and www.PACareerLinkPHL.org.</li>
+					<li>The Institute for Community Justice is a comprehensive prison services and reentry program providing health linkages, supportive services, education, and advocacy for individuals, families and communities impacted by mass incarceration. To learn more about ICJ, visit <a href="www.fight.org" target="_blank">www.fight.org</a>.</li>
+					<li>Interim House provides a continuum of comprehensive services to women addicted to drugs and alcohol that includes three levels of care: Residential Treatment, Intensive Outpatient Treatment, and Outpatient Counseling. Incorporated in 1971, Interim House was the first such specialized program in the Commonwealth of Pennsylvania and one of the first in the nation. It has served as a model for innovative treatment of substance abusing women. To learn more about Interim House, visit <a href="www.InterimHouse.org" target="_blank">www.InterimHouse.org</a>.</li>
+					<li>The Mayor’s Office of Reintegration Services (RISE) and PA Career Link provide employment support to individuals who have been previously convicted, sentenced and incarcerated. This includes vocational training, computer literacy, and job search assistance. To learn more about RISE and PA Career Link, visit www.phila.gov and <a href="www.PACareerLinkPHL.org" target="_blank">www.PACareerLinkPHL.org</a>.</li>
 				</ul>
 				<div class="clearfix"></div><br/>
 				

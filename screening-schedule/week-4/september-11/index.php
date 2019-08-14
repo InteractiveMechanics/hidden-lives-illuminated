@@ -58,15 +58,13 @@
 				<div class="clearfix"></div><br />
 				
 				<h3>7:00 – 9:45 pm: Write the Filmmakers</h3>
-				<p>Share your thoughts with the filmmakers! Postcards, pens, and postage will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided.</p>
-				<div class="clearfix"></div><br/>
-				
-				<h3>7:00 – 9:00 pm: Coffee with a Commissioner</h3>
-				<p>Enjoy coffee and conversation with Philadelphia Commissioner of Prisons Blanche Carney.</p>
+				<p>Share your thoughts with the filmmakers! Postcards and pens will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided. We’ll take care of delivering your message.</p>
 				<div class="clearfix"></div><br/>
 				
 				
-				<p class="text-muted">These events (as with all events during <em>Hidden Lives Illuminated</em>) are free and open to the public. No reservations required. Appropriate for all ages.</p>
+				<h3>7:00 – 9:45 pm: Hands-on activities</h3>
+				<p>Join us for hands-on activities designed to bring people together and spark reflection on tonight’s films.</p>
+				<div class="clearfix"></div><br/>
 				
 				
 				<br /><br />

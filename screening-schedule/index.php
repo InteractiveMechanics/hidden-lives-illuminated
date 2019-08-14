@@ -20,7 +20,7 @@
 				
 				
 				<ul>
-					<li>Screenings last about 40 minutes, and are looped three times nightly: 7 pm, 8 pm, and 9 pm, rain or shine</li>
+					<li>Screenings last about 40 minutes, and are looped three times nightly: 7 pm, 8 pm, and 9 pm, rain or shine. (The 7:00 pm showing is indoor only.)</li>
 					<li>Family-friendly, hands-on activities and presentations every night</li>
 					<li>Free and open to the public</li>
 					<li>2100 Fairmount Avenue, Philadelphia PA 19130</li>

@@ -40,7 +40,7 @@
 				
 				<br /><br />
 				<div class="text-center">
-					<h2 class="text-underline">Guest Films</h2>
+					<h2 class="text-underline">Guest Film</h2>
 				</div>
 				<div class="clearfix"></div><br />
 				
@@ -55,7 +55,7 @@
 				<div class="clearfix"></div><br />
 				
 				<h3>7:00 – 9:45 pm: Write the Filmmakers</h3>
-				<p>Share your thoughts with the filmmakers! Postcards, pens, and postage will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided.</p>
+				<p>Share your thoughts with the filmmakers! Postcards and pens will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided. We’ll take care of delivering your message.</p>
 				<div class="clearfix"></div><br/>
 				
 				<h3>7:00 – 9:45 pm: Hands-on Activities</h3>
@@ -63,7 +63,7 @@
 				<div class="clearfix"></div><br/>
 				
 				<h3>7:00 – 9:45 pm: School Supply Drive</h3>
-				<p>Join us in donating to the <em>Hidden Lives Illuminated</em> School Supplies Drive! These much needed supplies will go to children who have an incarcerated parent at SCI Chester or Riverside Correctional Facility. Donations will be collected at the <em>Hidden Lives Illuminated</em> Event Hub at OCF Coffee House, 2100 Fairmount Avenue from 7:00 – 10:00 pm, August 29 through September 4. Please donate one or more of these new, unused school supply items:</p>
+				<p>Join us in donating to the <em>Hidden Lives Illuminated</em> School Supplies Drive! These much needed supplies will go to children who have an incarcerated parent at SCI Chester or Riverside Correctional Facility. Donations will be collected at the <em>Hidden Lives Illuminated</em> Event Hub at OCF Coffee House, 2100 Fairmount Avenue from 7:00 – 9:45 pm, August 29 through September 4. Please donate one or more of these new, unused school supply items:</p>
 				<ul>
 					<li>Pencils</li>
 					<li>Pens</li>
@@ -82,7 +82,7 @@
 				
 				<h3>7:00 – 9:00 pm: Expungement Clinic with Philadelphia Lawyers for Social Equity</h3>
 				<p>Philadelphia Lawyers for Social Equity will provide a criminal record expungement clinic for members of the public. At 7:40 pm, a member of PLSE staff will give a presentation on how to clear a criminal record. Volunteers will be available to meet with attendees interested in expungement one-on-one.</p>
-				<p>Philadelphia Lawyers for Social Equity works toward just outcomes for low-income individuals who have had contact with the Pennsylvania criminal justice system because social justice requires social action. To learn more about PLSE, visit www.PLSEphilly.org.</p>
+				<p>Philadelphia Lawyers for Social Equity works toward just outcomes for low-income individuals who have had contact with the Pennsylvania criminal justice system because social justice requires social action. To learn more about PLSE, visit <a href="www.PLSEphilly.org" target="_blank">www.PLSEphilly.org</a>.</p>
 				<div class="clearfix"></div><br/>
 				
 				

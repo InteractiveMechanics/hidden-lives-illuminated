@@ -58,12 +58,12 @@
 				<div class="clearfix"></div><br />
 				
 				<h3>7:00 – 9:45 pm: Write the Filmmakers</h3>
-				<p>Share your thoughts with the filmmakers! Postcards, pens, and postage will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided.</p>
+				<p>Share your thoughts with the filmmakers! Postcards and pens will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided. We’ll take care of delivering your message.</p>
 				<div class="clearfix"></div><br/>
 				
 				<h3>7:40 pm: Free Library of Philadelphia</h3>
 				<p>Meet representatives from the Free Library and learn about their Prison and Re-entry services.</p>
-				<p>The Free Library is committed to offering high-quality programs and services to incarcerated people, their children, and their families. These include literacy support, family programs, cultural and literary offerings, and re-entry resources and information. To learn more about the Free Library, visit www.FreeLibrary.org.</p>
+				<p>The Free Library is committed to offering high-quality programs and services to incarcerated people, their children, and their families. These include literacy support, family programs, cultural and literary offerings, and re-entry resources and information. To learn more about the Free Library, visit <a href="www.FreeLibrary.org" target="_blank">www.FreeLibrary.org</a>.</p>
 				<div class="clearfix"></div><br/>
 				
 				

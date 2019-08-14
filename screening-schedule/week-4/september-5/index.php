@@ -58,12 +58,12 @@
 				<div class="clearfix"></div><br />
 				
 				<h3>7:00 – 9:45 pm: Write the Filmmakers</h3>
-				<p>Share your thoughts with the filmmakers! Postcards, pens, and postage will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided.</p>
+				<p>Share your thoughts with the filmmakers! Postcards and pens will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided. We’ll take care of delivering your message.</p>
 				<div class="clearfix"></div><br/>
 				
 				<h3>7:40 pm: Lightning Talk with Altovise Love-Craighead</h3>
 				<p>Altovise will give a 20-minute presentation about her work as a captain in the Philadelphia Police Department and co-founder of EMIR (Every Murder is Real).</p>
-				<p>EMIR Healing Center (Every Murder is Real) is a nonprofit organization that services and supports family members and friends who have been affected by homicide. To learn more about EMIR, visit www.EMIRphilly.org.</p>
+				<p>EMIR Healing Center (Every Murder is Real) is a nonprofit organization that services and supports family members and friends who have been affected by homicide. To learn more about EMIR, visit <a href="www.EMIRphilly.org" target="_blank">www.EMIRphilly.org</a>.</p>
 				<div class="clearfix"></div><br/>
 				
 				
