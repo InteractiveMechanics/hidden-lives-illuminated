@@ -18,17 +18,7 @@
 				
 				<br />
 				<figure>
-					<div style="
-							width: 100%; 
-							height: 400px;
-							background-color: gray;
-							display: flex;
-							align-items: center;
-							justify-content: center;
-							font-size: 1.8rem;
-							font-family: 'Roboto Condensed', sans-serif;">
-						Video Coming Soon</div>
-					<iframe class="d-none" src="https://player.vimeo.com/video/" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+					<iframe src="https://player.vimeo.com/video/354097825" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 					<figcaption class="d-none"></figcaption>
 				</figure>
 				
