@@ -63,7 +63,7 @@
 				
 				<h3>7:40 pm: Lightning Talk with Altovise Love-Craighead</h3>
 				<p>Altovise will give a 20-minute presentation about her work as a captain in the Philadelphia Police Department and co-founder of EMIR (Every Murder is Real).</p>
-				<p>EMIR Healing Center (Every Murder is Real) is a nonprofit organization that services and supports family members and friends who have been affected by homicide. To learn more about EMIR, visit <a href="www.EMIRphilly.org" target="_blank">www.EMIRphilly.org</a>.</p>
+				<p>EMIR Healing Center (Every Murder is Real) is a nonprofit organization that services and supports family members and friends who have been affected by homicide. To learn more about EMIR, visit <a href="http://www.EMIRphilly.org" target="_blank">www.EMIRphilly.org</a>.</p>
 				<div class="clearfix"></div><br/>
 				
 				

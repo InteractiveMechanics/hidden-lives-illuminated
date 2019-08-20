@@ -82,7 +82,7 @@
 				
 				<h3>7:00 – 9:00 pm: Expungement Clinic with Philadelphia Lawyers for Social Equity</h3>
 				<p>Philadelphia Lawyers for Social Equity will provide a criminal record expungement clinic for members of the public. At 7:40 pm, a member of PLSE staff will give a presentation on how to clear a criminal record. Volunteers will be available to meet with attendees interested in expungement one-on-one.</p>
-				<p>Philadelphia Lawyers for Social Equity works toward just outcomes for low-income individuals who have had contact with the Pennsylvania criminal justice system because social justice requires social action. To learn more about PLSE, visit <a href="www.PLSEphilly.org" target="_blank">www.PLSEphilly.org</a>.</p>
+				<p>Philadelphia Lawyers for Social Equity works toward just outcomes for low-income individuals who have had contact with the Pennsylvania criminal justice system because social justice requires social action. To learn more about PLSE, visit <a href="http://www.PLSEphilly.org" target="_blank">www.PLSEphilly.org</a>.</p>
 				<div class="clearfix"></div><br/>
 				
 				

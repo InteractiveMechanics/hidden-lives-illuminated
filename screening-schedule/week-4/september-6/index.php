@@ -61,6 +61,18 @@
 				<p>Share your thoughts with the filmmakers! Postcards and pens will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided. We’ll take care of delivering your message.</p>
 				<div class="clearfix"></div><br/>
 				
+				<h3>7:00 – 9:00 pm: Learn how you can get involved!</h3>
+				<p>Join us for an open house with these community organizations and learn how you can get involved:</p>
+				<ul>
+					<li>Transformation Yoga Project serves people impacted by trauma, addiction, and incarceration through trauma-sensitive, mindfulness-based yoga programs driven by education and research.</li>
+					<li>The Center for Returning Citizens (TCRC) assists returning citizens in the transition from incarceration to society by providing job training, housing assistance, counseling services, legal aid, and referrals. TCRC helps individuals, families and communities with the adverse impacts of incarceration, including mentoring and providing counseling for the children of incarcerated parents, at risk and incarcerated youth.</li>
+				</ul>
+				<div class="clearfix"></div><br/>
+				
+				<h3>7:40 pm: Meditation</h3>
+				<p>Transformation Yoga Project staff will lead a 20-minute guided meditation.</p>
+				<div class="clearfix"></div><br/>
+				
 				<h3>7:00 – 9:45 pm: Hands-on activities</h3>
 				<p>Join us for hands-on activities designed to bring people together and spark reflection on tonight’s films.</p>
 				<div class="clearfix"></div><br/>

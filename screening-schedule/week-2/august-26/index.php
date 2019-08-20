@@ -63,7 +63,7 @@
 				
 				<h3>7:40 pm: Free Library of Philadelphia</h3>
 				<p>Meet representatives from the Free Library and learn about their Prison and Re-entry services.</p>
-				<p>The Free Library is committed to offering high-quality programs and services to incarcerated people, their children, and their families. These include literacy support, family programs, cultural and literary offerings, and re-entry resources and information. To learn more about the Free Library, visit <a href="www.FreeLibrary.org" target="_blank">www.FreeLibrary.org</a>.</p>
+				<p>The Free Library is committed to offering high-quality programs and services to incarcerated people, their children, and their families. These include literacy support, family programs, cultural and literary offerings, and re-entry resources and information. To learn more about the Free Library, visit <a href="http://www.FreeLibrary.org" target="_blank">www.FreeLibrary.org</a>.</p>
 				<div class="clearfix"></div><br/>
 				
 				
