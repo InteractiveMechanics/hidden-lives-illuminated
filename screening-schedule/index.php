@@ -25,6 +25,7 @@
 					<li>Family-friendly, hands-on activities and presentations every night</li>
 					<li>Free and open to the public</li>
 					<li>2100 Fairmount Avenue, Philadelphia PA 19130</li>
+					<li>Accessible seating is available for the film screenings as well as for the programs inside the Event Hub. All films are subtitled in English and Spanish.</li>
 				</ul>
 				<br /><br />
 	
