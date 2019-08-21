@@ -18,7 +18,7 @@
 				
 				<br />
 				<figure>
-					<iframe src="https://player.vimeo.com/video/354097228" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+					<iframe src="https://player.vimeo.com/video/355117163" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 					<figcaption class="d-none"></figcaption>
 				</figure>
 				
