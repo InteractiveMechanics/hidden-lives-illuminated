@@ -1,7 +1,7 @@
 <?php 
 	$base_path 		= "/hiddenlives/";	
 	$page_class 	= "page-interior";
-	$page_title		= "Schedule for September 8";
+	$page_title		= "Schedule for Sun. Sept. 8";
 	$page_id		= 1;
 	
 	require('../../../inc/header.php');

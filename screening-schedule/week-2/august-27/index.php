@@ -1,7 +1,7 @@
 <?php 
 	$base_path 		= "/hiddenlives/";	
 	$page_class 	= "page-interior";
-	$page_title		= "Schedule for August 27";
+	$page_title		= "Schedule for Tues. Aug. 27";
 	$page_id		= 1;
 	
 	require('../../../inc/header.php');
@@ -61,8 +61,9 @@
 				<p>Share your thoughts with the filmmakers! Postcards and pens will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided. We’ll take care of delivering your message.</p>
 				<div class="clearfix"></div><br/>
 				
-				<h3>7:40 pm: Girard College</h3>
-				<p>Meet representatives from Girard College and learn more about their Students Plan program.</p>
+				<h3>7:00 – 9:00 pm: The Impact of the School-to-Prison Pipeline</h3>
+				<p>Beyoncé Brown, Senior at Girard College High School Academy, will lead a night of social action and learning on the school-to-prison pipeline.</p>
+				<p>Girard College High School Academy enables students to gain the skills, habits, and mindset to add value to our world. Together, our coalition of students, families, practitioners and community partners will lead meaningful change that is locally relevant and globally informed.</p>
 				<div class="clearfix"></div><br/>
 				
 				

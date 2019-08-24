@@ -76,7 +76,7 @@
 				</div>
 				<div class="cal cal-week5">
 					<h2 style="color: #ED5F59;">Finale!</h2>
-					<a href="<?php echo $base_path; ?>screening-schedule/finale" class="cal-wed">SEP <span>12</span></a>
+					<a href="<?php echo $base_path; ?>screening-schedule/finale" class="cal-wed" style="background-color: #ED5F59; color: white !important;">SEP <span>12</span></a>
 				</div>
 				
 			</div>
