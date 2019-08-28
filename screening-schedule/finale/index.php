@@ -16,7 +16,7 @@
 				<h1><?php echo $page_title; ?></h1>
 				<h2>8:00 – 9:30 pm</h2>
 				
-				<p>This one-night festival marks the final night of <em>Hidden Lives Illuminated</em> with all 20 original films screened back to back.  Featuring guest speakers introducing each film, musical performances from special guests, and a spirt of celebration for the incarcerated filmmakers’ extraordinary accomplishments.</p>
+				<p>This one-night festival marks the final night of <em>Hidden Lives Illuminated</em> with all 20 original films screened back to back.  Featuring guest speakers introducing each film, musical performances from special guests, and a spirit of celebration for the incarcerated filmmakers’ extraordinary accomplishments.</p>
 				
 				<br /><br />
 				<div class="text-center">
