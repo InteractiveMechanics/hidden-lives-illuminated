@@ -58,6 +58,10 @@
 				<p>Share your thoughts with the filmmakers! Postcards and pens will be available every night during <em>Hidden Lives Illuminated</em>. Write your note to the artists and drop it in the mailbox provided. We’ll take care of delivering your message.</p>
 				<div class="clearfix"></div><br/>
 				
+				<h3>7:40 pm: Family and Friends Night</h3>
+				<p>Join us for a 20-minute public conversation between family and friends of week 3 filmmakers and <em>Hidden Lives Illuminated</em> storytelling coach and script advisor Christina “Starfire” May.</p>
+				<div class="clearfix"></div><br/>
+				
 				<h3>7:00 – 9:45 pm: Hands-on Activities</h3>
 				<p>Create buttons in response to themes found in the films, and add your reflections to our community canvas.</p>
 				<div class="clearfix"></div><br/>
