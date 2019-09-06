@@ -64,8 +64,8 @@
 				<h3>7:00 – 9:00 pm: Learn how you can get involved!</h3>
 				<p>Join us for an open house with these community organizations and learn how you can get involved:</p>
 				<ul>
-					<li>Transformation Yoga Project serves people impacted by trauma, addiction, and incarceration through trauma-sensitive, mindfulness-based yoga programs driven by education and research.</li>
-					<li>The Center for Returning Citizens (TCRC) assists returning citizens in the transition from incarceration to society by providing job training, housing assistance, counseling services, legal aid, and referrals. TCRC helps individuals, families and communities with the adverse impacts of incarceration, including mentoring and providing counseling for the children of incarcerated parents, at risk and incarcerated youth.</li>
+					<li><a href="http://transformationyogaproject.org/" target="_blank">Transformation Yoga Project</a> serves people impacted by trauma, addiction, and incarceration through trauma-sensitive, mindfulness-based yoga programs driven by education and research.</li>
+					<li><a href="https://tcrcphilly.org/" target="_blank">The Center for Returning Citizens</a> (TCRC) assists returning citizens in the transition from incarceration to society by providing job training, housing assistance, counseling services, legal aid, and referrals. TCRC helps individuals, families and communities with the adverse impacts of incarceration, including mentoring and providing counseling for the children of incarcerated parents, at risk and incarcerated youth.</li>
 				</ul>
 				<div class="clearfix"></div><br/>
 				
@@ -77,6 +77,23 @@
 				<p>Join us for hands-on activities designed to bring people together and spark reflection on tonight’s films.</p>
 				<div class="clearfix"></div><br/>
 				
+				<h3>7:00 – 9:45 pm: School Supply Drive</h3>
+				<p>Join us in donating to the <em>Hidden Lives Illuminated</em> School Supplies Drive! These much needed supplies will go to children who have an incarcerated parent at SCI Chester or Riverside Correctional Facility. Donations will be collected at the <em>Hidden Lives Illuminated</em> Event Hub at OCF Coffee House, 2100 Fairmount Avenue from 7:00 – 9:45 pm, August 29 through September 4. Please donate one or more of these new, unused school supply items:</p>
+				<ul>
+					<li>Pencils</li>
+					<li>Pens</li>
+					<li>Markers</li>
+					<li>Crayons</li>
+					<li>Glue Sticks</li>
+					<li>Scissors</li>
+					<li>Pencil Cases</li>
+					<li>Notebooks</li>
+					<li>Backpacks</li>
+					<li>Folders</li>
+					<li>Feminine Hygiene Products</li>
+				</ul>
+				<p>If you have any questions, please contact Damon McCool at dm@easternstate.org or at (215) 236-5111 x243. Thank you for your support!</p>
+				<div class="clearfix"></div><br/>
 				
 				<p class="text-muted">These events (as with all events during <em>Hidden Lives Illuminated</em>) are free and open to the public. No reservations required. Appropriate for all ages.</p>
 
