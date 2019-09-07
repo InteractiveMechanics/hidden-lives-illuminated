@@ -14,7 +14,7 @@
 		<div class="col-sm-12 col-md-8 col-lg-6 align-self-end">
 			<div class="page-content">
 				<h1>Animated films by currently-incarcerated artists projected onto Eastern State Penitentiary.</h1>
-				<h2>August 15 &ndash; September 12, 2019</h2>
+				<h2>FINALE September 12 (or 15), 2019!</h2>
 				<figcaption>ABOVE:  Artist’s rendering using still image from <em>Last Day of Freedom</em>, directed by Dee Hibbert-Jones and Nomi Talisman.</figcaption>
 			</div>
 		</div>
