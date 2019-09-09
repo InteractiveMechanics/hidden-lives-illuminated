@@ -70,7 +70,7 @@
 				<div class="clearfix"></div><br/>
 				
 				<h3>7:00 – 9:45 pm: School Supply Drive</h3>
-				<p>Join us in donating to the <em>Hidden Lives Illuminated</em> School Supplies Drive! These much needed supplies will go to children who have an incarcerated parent at SCI Chester or Riverside Correctional Facility. Donations will be collected at the <em>Hidden Lives Illuminated</em> Event Hub at OCF Coffee House, 2100 Fairmount Avenue from 7:00 – 9:45 pm, August 29 through September 4. Please donate one or more of these new, unused school supply items:</p>
+				<p>Join us in donating to the <em>Hidden Lives Illuminated</em> School Supplies Drive! These much needed supplies will go to children who have an incarcerated parent at SCI Chester or Riverside Correctional Facility. Donations will be collected at the <em>Hidden Lives Illuminated</em> Event Hub at OCF Coffee House, 2100 Fairmount Avenue from 7:00 – 9:45 pm, August 29 through September 11. Please donate one or more of these new, unused school supply items:</p>
 				<ul>
 					<li>Pencils</li>
 					<li>Pens</li>
