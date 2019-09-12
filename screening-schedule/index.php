@@ -76,13 +76,13 @@
 				</div>
 				<div class="cal cal-week5">
 					<h2 style="color: #ED5F59;">Finale!</h2>
-					<a href="<?php echo $base_path; ?>screening-schedule/finale" class="cal-wed" style="background-color: #ED5F59; color: white !important;">SEP <span>12</span></a>
-					<a href="javascript:void(0);" class="cal-wed d-none" style="background-color: #555; color: #AAA !important; cursor: auto;">SEP <span>12</span>
+					<a href="<?php echo $base_path; ?>screening-schedule/finale" class="d-none cal-wed" style="background-color: #ED5F59; color: white !important;">SEP <span>12</span></a>
+					<a href="javascript:void(0);" class="cal-wed" style="background-color: #555; color: #AAA !important; cursor: auto;">SEP <span>12</span>
 						<small style="position: absolute; font-size: 600%; color: white; top: 0; left: 0; width: 100%; text-align: center; line-height: 1.4; opacity: 0.25;">X</small>
 					</a>
-					<a href="javascript:void(0);" class="cal-thr d-none" style="background-color: #555; color: #AAA !important; cursor: auto;">SEP <span>13</span></a>
-					<a href="javascript:void(0);" class="cal-fri d-none" style="background-color: #555; color: #AAA !important; cursor: auto;">SEP <span>14</span></a>
-					<a href="<?php echo $base_path; ?>screening-schedule/finale" class="cal-sun d-none" style="background-color: #ED5F59; color: white !important;">SEP <span>15</span></a>
+					<a href="javascript:void(0);" class="cal-thr" style="background-color: #555; color: #AAA !important; cursor: auto;">SEP <span>13</span></a>
+					<a href="javascript:void(0);" class="cal-fri" style="background-color: #555; color: #AAA !important; cursor: auto;">SEP <span>14</span></a>
+					<a href="<?php echo $base_path; ?>screening-schedule/finale" class="cal-sun" style="background-color: #ED5F59; color: white !important;">SEP <span>15</span></a>
 				</div>
 				
 			</div>
